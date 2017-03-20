@@ -1,47 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Learner, Educator, Leader</title>
-    <link>http://barkerd427.github.io/index.xml</link>
-    <description>Recent content on Learner, Educator, Leader</description>
+    <title>Posts on Learner, Educator, Leader</title>
+    <link>http://barkerd427.github.io/post/index.xml</link>
+    <description>Recent content in Posts on Learner, Educator, Leader</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Dan Barker</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://barkerd427.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title></title>
-      <link>http://barkerd427.github.io/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://barkerd427.github.io/home/about/</guid>
-      <description>
-
-&lt;h1 id=&#34;biography&#34;&gt;Biography&lt;/h1&gt;
-
-&lt;p&gt;Dan spent 12 years in the military as a mechanic on fighter jets, like the F-16, before transitioning to a career in technology as a Software Engineer, then a DevOps Engineer, and now a Software Development Manager. He’s leading a team of engineers dedicated to bringing DevOps principles and practices to a financial and health services company. This team is core to a multi-million dollar transformation program. Dan is also an organizer of the DevOps KC Meetup and the DevOpsDays KC conference.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>http://barkerd427.github.io/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://barkerd427.github.io/home/contact/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Example Talk</title>
-      <link>http://barkerd427.github.io/talk/example-talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://barkerd427.github.io/talk/example-talk/</guid>
-      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://barkerd427.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Getting started with the Academic framework for Hugo</title>
