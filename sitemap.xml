@@ -4,15 +4,23 @@
     
     
     <url>
-      <loc>http://barkerd427.github.io/tags/academic/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <loc>http://barkerd427.github.io/talk/revolutionconf-becoming-plumber-building-deployment-pipelines/</loc>
+      <lastmod>2017-06-01T00:00:00+00:00</lastmod>
     </url>
     
   
     
     
     <url>
-      <loc>http://barkerd427.github.io/talk/example-talk/</loc>
+      <loc>http://barkerd427.github.io/talk/codestock-architecting-future-abstractions-metadata/</loc>
+      <lastmod>2017-05-05T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -36,40 +44,40 @@
     
     
     <url>
-      <loc>http://barkerd427.github.io/post/getting-started/</loc>
-      <lastmod>2016-04-20T12:00:00+00:00</lastmod>
+      <loc>http://barkerd427.github.io/talk/what-is-devops/</loc>
+      <lastmod>2016-12-10T00:00:00+00:00</lastmod>
     </url>
     
   
     
     
     <url>
-      <loc>http://barkerd427.github.io/post/widgets/</loc>
-      <lastmod>2016-04-20T11:00:00+00:00</lastmod>
+      <loc>http://barkerd427.github.io/talk/new-view-human-error/</loc>
+      <lastmod>2016-09-29T00:00:00+00:00</lastmod>
     </url>
     
   
     
     
     <url>
-      <loc>http://barkerd427.github.io/post/managing-content/</loc>
-      <lastmod>2016-04-20T11:00:00+00:00</lastmod>
+      <loc>http://barkerd427.github.io/talk/devsecops-crash-course/</loc>
+      <lastmod>2016-08-31T00:00:00+00:00</lastmod>
     </url>
     
   
     
     
     <url>
-      <loc>http://barkerd427.github.io/post/writing-markdown-latex/</loc>
-      <lastmod>2016-04-20T10:00:00+00:00</lastmod>
+      <loc>http://barkerd427.github.io/talk/elastic-jenkins/</loc>
+      <lastmod>2016-02-19T00:00:00+00:00</lastmod>
     </url>
     
   
     
     
     <url>
-      <loc>http://barkerd427.github.io/post/migrate-from-jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+      <loc>http://barkerd427.github.io/talk/docker-fundamental-change/</loc>
+      <lastmod>2015-02-03T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -83,14 +91,6 @@
     
   
     
-    
-  
-    
-    
-    <url>
-      <loc>http://barkerd427.github.io/tags/</loc>
-      <priority>0</priority>
-    </url>
     
   
 </urlset>

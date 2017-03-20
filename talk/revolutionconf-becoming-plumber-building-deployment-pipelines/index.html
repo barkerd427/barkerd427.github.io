@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="theme" content="hugo-academic">
+  <meta name="generator" content="Hugo 0.18.1" />
+  <meta name="author" content="Dan Barker">
+  <meta name="description" content="Engineering Manager/Cloud Architect">
+
+  
+  
+  
+    
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/highlight.min.css">
+    
+  
+  <link rel="stylesheet" href="/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/css/font-awesome.min.css">
+  <link rel="stylesheet" href="/css/academicons.min.css">
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:400,700|Merriweather|Roboto+Mono">
+  <link rel="stylesheet" href="/css/hugo-academic.css">
+  
+
+  <link rel="alternate" href="http://barkerd427.github.io/index.xml" type="application/rss+xml" title="Dan Barker - Learner, Educator, Leader">
+  <link rel="feed" href="http://barkerd427.github.io/index.xml" type="application/rss+xml" title="Dan Barker - Learner, Educator, Leader">
+
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/apple-touch-icon.png">
+
+  <link rel="canonical" href="http://barkerd427.github.io/talk/revolutionconf-becoming-plumber-building-deployment-pipelines/">
+
+  
+
+  <title>Becoming a Plumber: Building Deployment Pipelines | Dan Barker - Learner, Educator, Leader</title>
+
+</head>
+<body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71">
+
+<nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target=".navbar-collapse" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="/">Dan Barker - Learner, Educator, Leader</a>
+    </div>
+
+    
+    <div class="collapse navbar-collapse">
+
+      
+      <ul class="nav navbar-nav navbar-right">
+        
+
+        
+
+        <li class="nav-item">
+          <a href="/#about">
+            
+            <span>Home</span>
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        <li class="nav-item">
+          <a href="/#talks">
+            
+            <span>Talks</span>
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        <li class="nav-item">
+          <a href="/#contact">
+            
+            <span>Contact</span>
+          </a>
+        </li>
+
+        
+        
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
+
+  
+  <div class="article-header">
+    <img src="/img//headers/bubbles-wide.jpg" class="article-banner" itemprop="image">
+    <span class="article-header-caption">My caption 😄</span>
+  </div>
+  
+
+  <div class="article-container">
+
+    <div class="pub-title">
+      <h1 itemprop="name">Becoming a Plumber: Building Deployment Pipelines</h1>
+      <span class="pub-authors" itemprop="author">
+        
+      </span>
+      <span class="pull-right">
+        
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=http%3a%2f%2fbarkerd427.github.io%2ftalk%2frevolutionconf-becoming-plumber-building-deployment-pipelines%2f"
+         target="_blank">
+        <i class="fa fa-facebook"></i>
+      </a>
+    </li>
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=Becoming%20a%20Plumber%3a%20Building%20Deployment%20Pipelines&amp;url=http%3a%2f%2fbarkerd427.github.io%2ftalk%2frevolutionconf-becoming-plumber-building-deployment-pipelines%2f"
+         target="_blank">
+        <i class="fa fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3a%2f%2fbarkerd427.github.io%2ftalk%2frevolutionconf-becoming-plumber-building-deployment-pipelines%2f&amp;title=Becoming%20a%20Plumber%3a%20Building%20Deployment%20Pipelines"
+         target="_blank">
+        <i class="fa fa-linkedin"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=http%3a%2f%2fbarkerd427.github.io%2ftalk%2frevolutionconf-becoming-plumber-building-deployment-pipelines%2f&amp;title=Becoming%20a%20Plumber%3a%20Building%20Deployment%20Pipelines"
+         target="_blank">
+        <i class="fa fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=Becoming%20a%20Plumber%3a%20Building%20Deployment%20Pipelines&amp;body=http%3a%2f%2fbarkerd427.github.io%2ftalk%2frevolutionconf-becoming-plumber-building-deployment-pipelines%2f">
+        <i class="fa fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+      </span>
+    </div>
+
+    
+      <h3>Abstract</h3>
+      <p class="pub-abstract" itemprop="text">A core part of our IT transformation program is the implementation of deployment pipelines for every application. Attendees will learn how to build abstract pipelines that will allow multiple types of applications to fit the same basic pipeline structure. This has been a big win for injecting change and updating legacy applications.</p>
+    
+
+    <div class="row">
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10">
+        <div class="row">
+          <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
+          <div class="col-xs-12 col-sm-9" itemprop="datePublished">
+            Thu, Jun 1, 2017
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-1"></div>
+    </div>
+    <div class="visible-xs space-below"></div>
+
+    <div class="row">
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10">
+        <div class="row">
+          <div class="col-xs-12 col-sm-3 pub-row-heading">Event</div>
+          <div class="col-xs-12 col-sm-9">
+            <a href="https://revolutionconf.com/" target="_blank">
+            RevolutionConf
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-1"></div>
+    </div>
+    <div class="visible-xs space-below"></div>
+
+    
+    <div class="row">
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10">
+        <div class="row">
+          <div class="col-xs-12 col-sm-3 pub-row-heading">Location</div>
+          <div class="col-xs-12 col-sm-9">Virginia Beach, Virginia</div>
+        </div>
+      </div>
+      <div class="col-sm-1"></div>
+    </div>
+    <div class="visible-xs space-below"></div>
+    
+
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style">
+      <p>Buy tickets now: <a href="https://ti.to/revolutionva/revolutionconf-2017" title="Attend RevolutionConf" target="_blank">Attend RevolutionConf</a>
+<br />
+Or become a sponsor: <a href="https://drive.google.com/open?id=0B0HrtfzUfLt6QjFVYW9VeV9vejQ" title="Sponsor RevolutionConf" target="_blank">Sponsor RevolutionConf</a></p>
+
+<p>A core part of our IT transformation program is the implementation of deployment pipelines for every application. Attendees will learn how to build abstract pipelines that will allow multiple types of applications to fit the same basic pipeline structure. This has been a big win for injecting change and updating legacy applications.</p>
+
+<p>In large enterprises, there are a lot of moving parts to manage. Our company has historically acted as many individual companies, but we have pivoted toward a model where we can still maintain independence but leverage efficiencies of scale. My team was formed to help create a new platform for all our applications. We work with the business units and the rest of the IT organization to ensure everyone is aligning with our overall strategy.</p>
+
+<p>We are building out a PaaS system using Kubernetes and Docker. Those are cool buzzwords, but the most important part is the deployment pipeline system. We’ve discovered how crucial it is to have every application in a deployment pipeline that can be easily managed centrally. In the past, it was nearly impossible to inject any kind of change into the deployment path when a new corporate policy or government regulation came out.</p>
+
+<p>We’re now able to pivot applications from VMs, to Docker containers, to the public cloud. We’re also able to inject changes into our pipelines through our pipeline abstractions that our applications now use. Making an update just requires a change in the core pipeline model and then rebuilding all the dependent pipeline descriptions.</p>
+
+    </div>
+
+  </div>
+</div>
+
+<div class="container">
+  <nav>
+  <ul class="pager">
+    
+    <li class="previous"><a href="http://barkerd427.github.io/talk/codestock-architecting-future-abstractions-metadata/"><span
+      aria-hidden="true">&larr;</span> Architecting the Future: Abstractions and Metadata</a></li>
+    
+
+    
+  </ul>
+</nav>
+
+</div>
+
+<footer class="site-footer">
+  <div class="container">
+    <p class="powered-by">
+
+      &copy; 2016 Dan Barker &middot; 
+
+      Powered by the <a href="https://github.com/gcushen/hugo-academic" target="_blank">Academic
+      theme</a> for <a href="http://gohugo.io" target="_blank">Hugo</a>.
+
+      <span class="pull-right" aria-hidden="true">
+        <a href="#" id="back_to_top">
+          <span class="button_icon">
+            <i class="fa fa-chevron-up fa-2x"></i>
+          </span>
+        </a>
+      </span>
+
+    </p>
+  </div>
+</footer>
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/gsap/1.18.4/TweenMax.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/gsap/latest/plugins/ScrollToPlugin.min.js"></script>
+    <script src="/js/jquery-1.12.3.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/isotope.pkgd.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.1/imagesloaded.pkgd.min.js"></script>
+    <script src="/js/hugo-academic.js"></script>
+    
+
+    
+
+    
+    
+      
+      <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/highlight.min.js"></script>
+
+      
+
+      
+
+      <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });
+    </script>
+    <script async src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_CHTML"></script>
+    
+
+  </body>
+</html>
+
