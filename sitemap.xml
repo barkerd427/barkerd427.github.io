@@ -36,6 +36,14 @@
     
     
     <url>
+      <loc>http://barkerd427.github.io/2017/04/09/your-hard-outer-shell-is-bs</loc>
+      <lastmod>2017-04-09T10:09:49-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
       <loc>http://barkerd427.github.io/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -84,6 +92,46 @@
     
     
     <url>
+      <loc>http://barkerd427.github.io/2016/06/23/architect-your-org-before-you-architect-your-system</loc>
+      <lastmod>2016-06-23T10:09:49-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/2016/05/16/defining-devops</loc>
+      <lastmod>2016-05-16T10:09:49-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/2016/04/25/your-customers-are-not-a-monitoring-tool</loc>
+      <lastmod>2016-04-25T10:09:49-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/2016/04/21/devops-starts-todaywith-you</loc>
+      <lastmod>2016-04-21T10:09:49-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/2016/03/23/failure-is-the-only-option</loc>
+      <lastmod>2016-03-23T10:09:49-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
       <loc>http://barkerd427.github.io/talk/elastic-jenkins/</loc>
       <lastmod>2016-02-19T00:00:00+00:00</lastmod>
     </url>
@@ -100,6 +148,126 @@
     
     
     <url>
+      <loc>http://barkerd427.github.io/2014/12/05/docker-containers--images</loc>
+      <lastmod>2014-12-05T10:09:49-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/2014/12/01/docker-adding-haproxy-and-fig-to-my-docker-websites</loc>
+      <lastmod>2014-12-01T08:55:49-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/2014/12/01/docker-how-i-dockerized-my-websites</loc>
+      <lastmod>2014-12-01T08:55:49-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/2014/11/30/docker-the-basics-with-mac-os-x-and-boot2docker</loc>
+      <lastmod>2014-11-30T15:34:49-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/2014/08/18/create-a-base-docker-image-rhel-from-vagrant</loc>
+      <lastmod>2014-08-18T09:45:49-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/2014/07/12/jvm-profiling-from-afar</loc>
+      <lastmod>2014-07-12T11:32:49-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/apache/</loc>
+      <lastmod>2014-12-01T08:55:49-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/architecture/</loc>
+      <lastmod>2016-06-23T10:09:49-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/automated-deployments/</loc>
+      <lastmod>2014-12-01T08:55:49-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/boot2docker/</loc>
+      <lastmod>2014-11-30T15:34:49-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/business/</loc>
+      <lastmod>2016-05-16T10:09:49-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/containers/</loc>
+      <lastmod>2014-12-05T10:09:49-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/cpu/</loc>
+      <lastmod>2014-07-12T11:32:49-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/culture/</loc>
+      <lastmod>2016-06-23T10:09:49-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
       <loc>http://barkerd427.github.io/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -107,6 +275,383 @@
     
   
     
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/devops/</loc>
+      <lastmod>2016-06-23T10:09:49-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/docker/</loc>
+      <lastmod>2014-12-05T10:09:49-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/docker-containers/</loc>
+      <lastmod>2014-12-05T10:09:49-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/docker-images/</loc>
+      <lastmod>2014-12-05T10:09:49-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/docker-registry/</loc>
+      <lastmod>2014-12-01T08:55:49-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/domain-routing/</loc>
+      <lastmod>2014-12-01T08:55:49-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/encryption/</loc>
+      <lastmod>2017-04-09T10:09:49-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/failure/</loc>
+      <lastmod>2016-03-23T10:09:49-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/fear-of-failure/</loc>
+      <lastmod>2016-03-23T10:09:49-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/fundamentals/</loc>
+      <lastmod>2014-11-30T15:34:49-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/haproxy/</loc>
+      <lastmod>2014-12-01T08:55:49-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/httpd/</loc>
+      <lastmod>2014-12-01T08:55:49-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/human-error/</loc>
+      <lastmod>2016-03-23T10:09:49-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/human-factors/</loc>
+      <lastmod>2016-03-23T10:09:49-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/images/</loc>
+      <lastmod>2014-12-05T10:09:49-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/java/</loc>
+      <lastmod>2014-07-12T11:32:49-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/jvm/</loc>
+      <lastmod>2014-07-12T11:32:49-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/lxc/</loc>
+      <lastmod>2014-12-01T08:55:49-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/mac/</loc>
+      <lastmod>2014-11-30T15:34:49-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/memory/</loc>
+      <lastmod>2014-07-12T11:32:49-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/monitoring/</loc>
+      <lastmod>2016-04-25T10:09:49-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/multiple-domains/</loc>
+      <lastmod>2014-12-01T08:55:49-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/netbeans/</loc>
+      <lastmod>2014-07-12T11:32:49-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/organizational-change/</loc>
+      <lastmod>2016-06-23T10:09:49-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/performance/</loc>
+      <lastmod>2014-07-12T11:32:49-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/personal-development/</loc>
+      <lastmod>2016-04-21T10:09:49-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/process/</loc>
+      <lastmod>2014-07-12T11:32:49-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/profile/</loc>
+      <lastmod>2014-07-12T11:32:49-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/profiling/</loc>
+      <lastmod>2014-07-12T11:32:49-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/remote/</loc>
+      <lastmod>2014-07-12T11:32:49-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/rhel/</loc>
+      <lastmod>2014-12-01T08:55:49-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/security/</loc>
+      <lastmod>2017-04-09T10:09:49-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/server/</loc>
+      <lastmod>2014-07-12T11:32:49-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/software-development/</loc>
+      <lastmod>2016-06-23T10:09:49-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/thread/</loc>
+      <lastmod>2014-07-12T11:32:49-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/tomcat/</loc>
+      <lastmod>2014-07-12T11:32:49-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/vagrant/</loc>
+      <lastmod>2014-08-18T09:45:49-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/virtual-hosts/</loc>
+      <lastmod>2014-12-01T08:55:49-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/visualvm/</loc>
+      <lastmod>2014-07-12T11:32:49-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/web-development/</loc>
+      <lastmod>2016-04-25T10:09:49-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://barkerd427.github.io/tags/websites/</loc>
+      <lastmod>2014-12-01T08:55:49-05:00</lastmod>
+      <priority>0</priority>
+    </url>
     
   
 </urlset>

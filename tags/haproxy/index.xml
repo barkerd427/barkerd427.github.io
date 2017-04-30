@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Haproxy on Dan Barker - Learn, Teach, Lead</title>
+    <link>http://barkerd427.github.io/tags/haproxy/index.xml</link>
+    <description>Recent content in Haproxy on Dan Barker - Learn, Teach, Lead</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Dan Barker</copyright>
+    <atom:link href="/tags/haproxy/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Docker: Adding HAProxy and Fig to my docker websites</title>
+      <link>http://barkerd427.github.io/2014/12/01/docker-adding-haproxy-and-fig-to-my-docker-websites</link>
+      <pubDate>Mon, 01 Dec 2014 08:55:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/2014/12/01/docker-adding-haproxy-and-fig-to-my-docker-websites</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://blog.dbdevs.com/2014/12/docker-adding-haproxy-and-fig-to-my.html&#34; target=&#34;_blank&#34;&gt;Here&amp;rsquo;s the original post.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Docker: How I dockerized my websites</title>
+      <link>http://barkerd427.github.io/2014/12/01/docker-how-i-dockerized-my-websites</link>
+      <pubDate>Mon, 01 Dec 2014 08:55:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/2014/12/01/docker-how-i-dockerized-my-websites</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://blog.dbdevs.com/2014/12/docker-how-i-dockerized-my-websites.html&#34; target=&#34;_blank&#34;&gt;Here&amp;rsquo;s the original post.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

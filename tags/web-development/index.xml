@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Development on Dan Barker - Learn, Teach, Lead</title>
+    <link>http://barkerd427.github.io/tags/web-development/index.xml</link>
+    <description>Recent content in Web Development on Dan Barker - Learn, Teach, Lead</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Dan Barker</copyright>
+    <atom:link href="/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>your customers are not a monitoring tool</title>
+      <link>http://barkerd427.github.io/2016/04/25/your-customers-are-not-a-monitoring-tool</link>
+      <pubDate>Mon, 25 Apr 2016 10:09:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/2016/04/25/your-customers-are-not-a-monitoring-tool</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://medium.com/@barkerd427/your-customers-are-not-a-monitoring-tool-9c1dafb2b8ca&#34; target=&#34;_blank&#34;&gt;Here&amp;rsquo;s the original post.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
