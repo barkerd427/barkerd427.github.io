@@ -80,9 +80,7 @@ Or become a sponsor: &lt;a href=&#34;https://assets.locomotive.works/sites/581e2
       <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
       
       <guid>http://barkerd427.github.io/talk/stlsilverlinings-architecting-future-abstractions-metadata/</guid>
-      <description>&lt;p&gt;Buy tickets now: &lt;a href=&#34;https://www.regonline.com/registration/login.aspx?eventID=1949976&amp;amp;MethodId=0&amp;amp;EventsessionId=&#34; title=&#34;Attend STLSilverLinings&#34; target=&#34;_blank&#34;&gt;Attend STLSilverLinings&lt;/a&gt;
-&lt;br /&gt;
-Or become a sponsor: &lt;a href=&#34;http://stlsilverlinings.org/SponsorshipDetails&#34; title=&#34;Sponsor STLSilverLinings&#34; target=&#34;_blank&#34;&gt;Sponsor STLSilverLinings&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/cdAOsXyTpJVlI8&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/DanielBarker4/architecting-the-future-stl-silverlinings-75601607&#34; title=&#34;Architecting the future STL SilverLinings&#34; target=&#34;_blank&#34;&gt;Architecting the future STL SilverLinings&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://www.slideshare.net/DanielBarker4&#34;&gt;Daniel Barker&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;This talk will explore these concepts within k8s and Docker as well as work I&amp;rsquo;ve done in my current role around continuous delivery pipelines. Attendees will leave with an appreciation for these two concepts and the tools necessary to begin architecting their systems similarly.&lt;/p&gt;
 
