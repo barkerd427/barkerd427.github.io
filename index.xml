@@ -32,6 +32,26 @@ Or become a sponsor: &lt;a href=&#34;https://drive.google.com/open?id=0B0HrtfzUf
     
     <item>
       <title>Architecting the Future: Abstractions and Metadata</title>
+      <link>http://barkerd427.github.io/talk/gluecon-architecting-future-abstractions-metadata/</link>
+      <pubDate>Thu, 25 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://barkerd427.github.io/talk/gluecon-architecting-future-abstractions-metadata/</guid>
+      <description>&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/liA2kqcAHWC7qd&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/DanielBarker4/architecting-the-future-abstractions-and-metadata-gluecon&#34; title=&#34;Architecting the Future: Abstractions and Metadata - GlueCon&#34; target=&#34;_blank&#34;&gt;Architecting the Future: Abstractions and Metadata - GlueCon&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://www.slideshare.net/DanielBarker4&#34;&gt;Daniel Barker&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;This talk will explore these concepts within k8s and Docker as well as work I&amp;rsquo;ve done in my current role around continuous delivery pipelines. Attendees will leave with an appreciation for these two concepts and the tools necessary to begin architecting their systems similarly.&lt;/p&gt;
+
+&lt;p&gt;Abstractions and metadata are the future of architecture in systems engineering as they were before in software engineering. In many languages, there are abstractions and metadata. However, systems engineering has never adopted this view. Systems were always thought of as too unique for any standard abstractions. Now we&amp;rsquo;ve standardized the lower-level abstractions and we’re ready to build new system-level abstractions.&lt;/p&gt;
+
+&lt;p&gt;Docker has become the standard unit of processing, which has alleviated many of the diversity issues within systems. Docker did this with abstractions around networking, cpu, memory, and filesystems.&lt;/p&gt;
+
+&lt;p&gt;Kubernetes is now using Docker to create higher-level abstractions, but they&amp;rsquo;ve even abstracted away the runtime. Kubernetes uses concepts like PersistentVolumes, Routes, Services, and Deployments as abstractions.&lt;/p&gt;
+
+&lt;p&gt;My team has created an abstraction around continuous delivery pipelines that provides us more flexibility with underlying resources. It&amp;rsquo;s a simple system based on certain abstractions and specific metadata. We&amp;rsquo;ve abstracted the build and deploy systems from the deployment pipeline model as well as accumulated metadata attributed to people, data, and pipelines to ensure security and compliance at scale.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Architecting the Future: Abstractions and Metadata</title>
       <link>http://barkerd427.github.io/talk/bsideskc-architecting-future-abstractions-metadata/</link>
       <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
       
@@ -205,20 +225,6 @@ Or become a sponsor: &lt;a href=&#34;https://drive.google.com/open?id=0B0HrtfzUf
       
       <guid>http://barkerd427.github.io/2016/03/23/failure-is-the-only-option</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://medium.com/@barkerd427/failure-is-the-only-option-3c390fed5378&#34; target=&#34;_blank&#34;&gt;Here&amp;rsquo;s the original post.&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Elastic Jenkins</title>
-      <link>http://barkerd427.github.io/talk/elastic-jenkins/</link>
-      <pubDate>Fri, 19 Feb 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://barkerd427.github.io/talk/elastic-jenkins/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/N5wuNZpRoh0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
 </description>
     </item>
     
