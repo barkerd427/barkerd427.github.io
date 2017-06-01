@@ -16,9 +16,7 @@
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>http://barkerd427.github.io/talk/revolutionconf-becoming-plumber-building-deployment-pipelines/</guid>
-      <description>&lt;p&gt;Buy tickets now: &lt;a href=&#34;https://ti.to/revolutionva/revolutionconf-2017?discount_code=barker&#34; title=&#34;Attend RevolutionConf&#34; target=&#34;_blank&#34;&gt;Attend RevolutionConf&lt;/a&gt;
-&lt;br /&gt;
-Or become a sponsor: &lt;a href=&#34;https://drive.google.com/open?id=0B0HrtfzUfLt6QjFVYW9VeV9vejQ&#34; title=&#34;Sponsor RevolutionConf&#34; target=&#34;_blank&#34;&gt;Sponsor RevolutionConf&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/IqNbvetJmh345U&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/DanielBarker4/becoming-a-plumber-building-deployment-pipelines-revconf&#34; title=&#34;Becoming a Plumber: Building Deployment Pipelines - RevConf&#34; target=&#34;_blank&#34;&gt;Becoming a Plumber: Building Deployment Pipelines - RevConf&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://www.slideshare.net/DanielBarker4&#34;&gt;Daniel Barker&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;A core part of our IT transformation program is the implementation of deployment pipelines for every application. Attendees will learn how to build abstract pipelines that will allow multiple types of applications to fit the same basic pipeline structure. This has been a big win for injecting change and updating legacy applications.&lt;/p&gt;
 
