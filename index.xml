@@ -16,7 +16,26 @@
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>http://barkerd427.github.io/talk/lisa17-becoming-plumber-building-deployment-pipelines/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;sponsorship@usenix.org&#34; target=&#34;_blank&#34;&gt;Become a Sponsor!&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;mailto:sponsorship@usenix.org&#34; target=&#34;_blank&#34;&gt;Become a Sponsor!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A core part of our IT transformation program is the implementation of deployment pipelines for every application. Attendees will learn how to build abstract pipelines that will allow multiple types of applications to fit the same basic pipeline structure. This has been a big win for injecting change and updating legacy applications.&lt;/p&gt;
+
+&lt;p&gt;In large enterprises, there are a lot of moving parts to manage. Our company has historically acted as many individual companies, but we have pivoted toward a model where we can still maintain independence but leverage efficiencies of scale. My team was formed to help create a new platform for all our applications. We work with the business units and the rest of the IT organization to ensure everyone is aligning with our overall strategy.&lt;/p&gt;
+
+&lt;p&gt;We are building out a PaaS system using Kubernetes and Docker. Those are cool buzzwords, but the most important part is the deployment pipeline system. We’ve discovered how crucial it is to have every application in a deployment pipeline that can be easily managed centrally. In the past, it was nearly impossible to inject any kind of change into the deployment path when a new corporate policy or government regulation came out.&lt;/p&gt;
+
+&lt;p&gt;We’re now able to pivot applications from VMs, to Docker containers, to the public cloud. We’re also able to inject changes into our pipelines through our pipeline abstractions that our applications now use. Making an update just requires a change in the core pipeline model and then rebuilding all the dependent pipeline descriptions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Becoming a Plumber: Building Deployment Pipelines</title>
+      <link>http://barkerd427.github.io/talk/alldaydevops-becoming-plumber-building-deployment-pipelines/</link>
+      <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://barkerd427.github.io/talk/alldaydevops-becoming-plumber-building-deployment-pipelines/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.alldaydevops.com/become-a-supporter&#34; target=&#34;_blank&#34;&gt;Become a Supporter!&lt;/a&gt;
+&lt;a href=&#34;http://www.alldaydevops.com/register&#34; target=&#34;_blank&#34;&gt;Register!&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;A core part of our IT transformation program is the implementation of deployment pipelines for every application. Attendees will learn how to build abstract pipelines that will allow multiple types of applications to fit the same basic pipeline structure. This has been a big win for injecting change and updating legacy applications.&lt;/p&gt;
 
@@ -51,9 +70,25 @@
     </item>
     
     <item>
+      <title>Leading Transformations in FinTech</title>
+      <link>http://barkerd427.github.io/talk/jenkinsworld-leading-transformations-fintech/</link>
+      <pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://barkerd427.github.io/talk/jenkinsworld-leading-transformations-fintech/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.cvent.com/events/jenkins-world-2017/registration-1d623ea19a4a4af58e9a207ff0f020db.aspx?fqp=true&#34; target=&#34;_blank&#34;&gt;Register Now!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Change initiatives are challenging in any established company, but they are even more challenging to start in highly regulated industries. There are constant concerns around compliance and security. It’s very important to alleviate these concerns early and often. This was one component of my strategy.&lt;/p&gt;
+
+&lt;p&gt;It’s also important to build shared experiences with the leadership of your company, but how do you do this as a low-level DevOps Engineer? It takes time and a lot of effort. It also takes a manager who sees the bigger picture. I’ll describe my journey in organizing the company around my vision from the hatching of the vision with a core team to expanding and solidifying that vision with executive sponsorship.&lt;/p&gt;
+
+&lt;p&gt;I’ve learned a lot from this process, and it will help others to hear this anecdote. I’ve pulled out some valuable concepts and principles to focus on, so the talk will be somewhat opinionated, but still encourage ideation in the audience. The audience will walk away with ideas to start their own change initiative no matter how big or small.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Architecting the Future: Abstractions and Metadata</title>
       <link>http://barkerd427.github.io/talk/kcdc-architecting-future-abstractions-metadata/</link>
-      <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 04 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>http://barkerd427.github.io/talk/kcdc-architecting-future-abstractions-metadata/</guid>
       <description>&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/JoCKWsQgBXf5F&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/DanielBarker4/architecting-the-future-abstractions-and-metadata-kcdc&#34; title=&#34;Architecting the Future: Abstractions and Metadata - KCDC&#34; target=&#34;_blank&#34;&gt;Architecting the Future: Abstractions and Metadata - KCDC&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://www.slideshare.net/DanielBarker4&#34;&gt;Daniel Barker&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
@@ -67,22 +102,6 @@
 &lt;p&gt;Kubernetes is now using Docker to create higher-level abstractions, but they&amp;rsquo;ve even abstracted away the runtime. Kubernetes uses concepts like PersistentVolumes, Routes, Services, and Deployments as abstractions.&lt;/p&gt;
 
 &lt;p&gt;My team has created an abstraction around continuous delivery pipelines that provides us more flexibility with underlying resources. It&amp;rsquo;s a simple system based on certain abstractions and specific metadata. We&amp;rsquo;ve abstracted the build and deploy systems from the deployment pipeline model as well as accumulated metadata attributed to people, data, and pipelines to ensure security and compliance at scale.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Leading Transformations in FinTech</title>
-      <link>http://barkerd427.github.io/talk/jenkinsworld-leading-transformations-fintech/</link>
-      <pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://barkerd427.github.io/talk/jenkinsworld-leading-transformations-fintech/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.cvent.com/events/jenkins-world-2017/registration-1d623ea19a4a4af58e9a207ff0f020db.aspx?fqp=true&#34; target=&#34;_blank&#34;&gt;Register Now!&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Change initiatives are challenging in any established company, but they are even more challenging to start in highly regulated industries. There are constant concerns around compliance and security. It’s very important to alleviate these concerns early and often. This was one component of my strategy.&lt;/p&gt;
-
-&lt;p&gt;It’s also important to build shared experiences with the leadership of your company, but how do you do this as a low-level DevOps Engineer? It takes time and a lot of effort. It also takes a manager who sees the bigger picture. I’ll describe my journey in organizing the company around my vision from the hatching of the vision with a core team to expanding and solidifying that vision with executive sponsorship.&lt;/p&gt;
-
-&lt;p&gt;I’ve learned a lot from this process, and it will help others to hear this anecdote. I’ve pulled out some valuable concepts and principles to focus on, so the talk will be somewhat opinionated, but still encourage ideation in the audience. The audience will walk away with ideas to start their own change initiative no matter how big or small.&lt;/p&gt;
 </description>
     </item>
     
@@ -253,20 +272,6 @@
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/BAoprp8_r7o&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>DevSecOps: Crash Course</title>
-      <link>http://barkerd427.github.io/talk/devsecops-crash-course/</link>
-      <pubDate>Wed, 31 Aug 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://barkerd427.github.io/talk/devsecops-crash-course/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/d3ExzKvHkl0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
  &lt;/div&gt;
 
 </description>
