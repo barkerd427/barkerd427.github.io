@@ -34,8 +34,7 @@
       <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>http://barkerd427.github.io/talk/alldaydevops-becoming-plumber-building-deployment-pipelines/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.alldaydevops.com/become-a-supporter&#34; target=&#34;_blank&#34;&gt;Become a Supporter!&lt;/a&gt;
-&lt;a href=&#34;http://www.alldaydevops.com/register&#34; target=&#34;_blank&#34;&gt;Register!&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/3Dl33fyYlqfjJn&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/DanielBarker4/becoming-a-plumber-building-deployment-pipelines-all-day-devops&#34; title=&#34;Becoming a Plumber: Building Deployment Pipelines - All Day DevOps&#34; target=&#34;_blank&#34;&gt;Becoming a Plumber: Building Deployment Pipelines - All Day DevOps&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;https://www.slideshare.net/DanielBarker4&#34; target=&#34;_blank&#34;&gt;Daniel Barker&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;A core part of our IT transformation program is the implementation of deployment pipelines for every application. Attendees will learn how to build abstract pipelines that will allow multiple types of applications to fit the same basic pipeline structure. This has been a big win for injecting change and updating legacy applications.&lt;/p&gt;
 
@@ -53,9 +52,7 @@
       <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>http://barkerd427.github.io/talk/allthingsopen-architecting-future-abstractions-metadata/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://allthingsopen.org/register-now/&#34; target=&#34;_blank&#34;&gt;Register Now!&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://allthingsopen.org/call-for-sponsors/&#34; target=&#34;_blank&#34;&gt;Become a Sponsor&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/gmiYos98vsce7F&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/secret/gmiYos98vsce7F&#34; title=&#34;Architecting the Future: Abstractions and Metadata - All Things Open&#34; target=&#34;_blank&#34;&gt;Architecting the Future: Abstractions and Metadata - All Things Open&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;https://www.slideshare.net/DanielBarker4&#34; target=&#34;_blank&#34;&gt;Daniel Barker&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;This talk will explore these concepts within k8s and Docker as well as work I&amp;rsquo;ve done in my current role around continuous delivery pipelines. Attendees will leave with an appreciation for these two concepts and the tools necessary to begin architecting their systems similarly.&lt;/p&gt;
 
