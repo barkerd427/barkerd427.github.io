@@ -2,21 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Encryption on Dan Barker - Learn, Teach, Lead</title>
-    <link>http://barkerd427.github.io/tags/encryption/index.xml</link>
+    <link>http://barkerd427.github.io/tags/encryption/</link>
     <description>Recent content in Encryption on Dan Barker - Learn, Teach, Lead</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Dan Barker</copyright>
-    <atom:link href="/tags/encryption/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Apr 2017 10:09:49 -0500</lastBuildDate>
+    
+	<atom:link href="http://barkerd427.github.io/tags/encryption/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>your hard outer shell is BS</title>
-      <link>http://barkerd427.github.io/2017/04/09/your-hard-outer-shell-is-bs</link>
+      <link>http://barkerd427.github.io/2017/04/09/your-hard-outer-shell-is-bs/</link>
       <pubDate>Sun, 09 Apr 2017 10:09:49 -0500</pubDate>
       
-      <guid>http://barkerd427.github.io/2017/04/09/your-hard-outer-shell-is-bs</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://medium.com/@barkerd427/your-hard-outer-shell-is-bs-79d3d7fd96cd&#34; target=&#34;_blank&#34;&gt;Here&amp;rsquo;s the original post.&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>http://barkerd427.github.io/2017/04/09/your-hard-outer-shell-is-bs/</guid>
+      <description>Here&amp;rsquo;s the original post.</description>
     </item>
     
   </channel>

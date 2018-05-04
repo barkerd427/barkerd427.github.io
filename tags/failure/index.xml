@@ -2,21 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Failure on Dan Barker - Learn, Teach, Lead</title>
-    <link>http://barkerd427.github.io/tags/failure/index.xml</link>
+    <link>http://barkerd427.github.io/tags/failure/</link>
     <description>Recent content in Failure on Dan Barker - Learn, Teach, Lead</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Dan Barker</copyright>
-    <atom:link href="/tags/failure/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Mar 2016 10:09:49 -0500</lastBuildDate>
+    
+	<atom:link href="http://barkerd427.github.io/tags/failure/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Failure is the Only Option</title>
-      <link>http://barkerd427.github.io/2016/03/23/failure-is-the-only-option</link>
+      <link>http://barkerd427.github.io/2016/03/23/failure-is-the-only-option/</link>
       <pubDate>Wed, 23 Mar 2016 10:09:49 -0500</pubDate>
       
-      <guid>http://barkerd427.github.io/2016/03/23/failure-is-the-only-option</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://medium.com/@barkerd427/failure-is-the-only-option-3c390fed5378&#34; target=&#34;_blank&#34;&gt;Here&amp;rsquo;s the original post.&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>http://barkerd427.github.io/2016/03/23/failure-is-the-only-option/</guid>
+      <description>Here&amp;rsquo;s the original post.</description>
     </item>
     
   </channel>

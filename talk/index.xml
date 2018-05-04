@@ -2,13 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on Dan Barker - Learn, Teach, Lead</title>
-    <link>http://barkerd427.github.io/talk/index.xml</link>
+    <link>http://barkerd427.github.io/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on Dan Barker - Learn, Teach, Lead</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Dan Barker</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://barkerd427.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Becoming a Plumber: Building Deployment Pipelines</title>
@@ -16,16 +18,9 @@
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>http://barkerd427.github.io/talk/lisa17-becoming-plumber-building-deployment-pipelines/</guid>
-      <description>&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/wC7bottiYo2ufL&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/DanielBarker4/becoming-a-plumber-building-deployment-pipelines-lisa17&#34; title=&#34;Becoming A Plumber: Building Deployment Pipelines - LISA17&#34; target=&#34;_blank&#34;&gt;Becoming A Plumber: Building Deployment Pipelines - LISA17&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;https://www.slideshare.net/DanielBarker4&#34; target=&#34;_blank&#34;&gt;Daniel Barker&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;A core part of our IT transformation program is the implementation of deployment pipelines for every application. Attendees will learn how to build abstract pipelines that will allow multiple types of applications to fit the same basic pipeline structure. This has been a big win for injecting change and updating legacy applications.&lt;/p&gt;
-
-&lt;p&gt;In large enterprises, there are a lot of moving parts to manage. Our company has historically acted as many individual companies, but we have pivoted toward a model where we can still maintain independence but leverage efficiencies of scale. My team was formed to help create a new platform for all our applications. We work with the business units and the rest of the IT organization to ensure everyone is aligning with our overall strategy.&lt;/p&gt;
-
-&lt;p&gt;We are building out a PaaS system using Kubernetes and Docker. Those are cool buzzwords, but the most important part is the deployment pipeline system. We’ve discovered how crucial it is to have every application in a deployment pipeline that can be easily managed centrally. In the past, it was nearly impossible to inject any kind of change into the deployment path when a new corporate policy or government regulation came out.&lt;/p&gt;
-
-&lt;p&gt;We’re now able to pivot applications from VMs, to Docker containers, to the public cloud. We’re also able to inject changes into our pipelines through our pipeline abstractions that our applications now use. Making an update just requires a change in the core pipeline model and then rebuilding all the dependent pipeline descriptions.&lt;/p&gt;
-</description>
+      <description>Becoming A Plumber: Building Deployment Pipelines - LISA17  from Daniel Barker 
+A core part of our IT transformation program is the implementation of deployment pipelines for every application. Attendees will learn how to build abstract pipelines that will allow multiple types of applications to fit the same basic pipeline structure. This has been a big win for injecting change and updating legacy applications.
+In large enterprises, there are a lot of moving parts to manage.</description>
     </item>
     
     <item>
@@ -34,16 +29,9 @@
       <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>http://barkerd427.github.io/talk/alldaydevops-becoming-plumber-building-deployment-pipelines/</guid>
-      <description>&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/3Dl33fyYlqfjJn&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/DanielBarker4/becoming-a-plumber-building-deployment-pipelines-all-day-devops&#34; title=&#34;Becoming a Plumber: Building Deployment Pipelines - All Day DevOps&#34; target=&#34;_blank&#34;&gt;Becoming a Plumber: Building Deployment Pipelines - All Day DevOps&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;https://www.slideshare.net/DanielBarker4&#34; target=&#34;_blank&#34;&gt;Daniel Barker&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;A core part of our IT transformation program is the implementation of deployment pipelines for every application. Attendees will learn how to build abstract pipelines that will allow multiple types of applications to fit the same basic pipeline structure. This has been a big win for injecting change and updating legacy applications.&lt;/p&gt;
-
-&lt;p&gt;In large enterprises, there are a lot of moving parts to manage. Our company has historically acted as many individual companies, but we have pivoted toward a model where we can still maintain independence but leverage efficiencies of scale. My team was formed to help create a new platform for all our applications. We work with the business units and the rest of the IT organization to ensure everyone is aligning with our overall strategy.&lt;/p&gt;
-
-&lt;p&gt;We are building out a PaaS system using Kubernetes and Docker. Those are cool buzzwords, but the most important part is the deployment pipeline system. We’ve discovered how crucial it is to have every application in a deployment pipeline that can be easily managed centrally. In the past, it was nearly impossible to inject any kind of change into the deployment path when a new corporate policy or government regulation came out.&lt;/p&gt;
-
-&lt;p&gt;We’re now able to pivot applications from VMs, to Docker containers, to the public cloud. We’re also able to inject changes into our pipelines through our pipeline abstractions that our applications now use. Making an update just requires a change in the core pipeline model and then rebuilding all the dependent pipeline descriptions.&lt;/p&gt;
-</description>
+      <description>Becoming a Plumber: Building Deployment Pipelines - All Day DevOps  from Daniel Barker 
+A core part of our IT transformation program is the implementation of deployment pipelines for every application. Attendees will learn how to build abstract pipelines that will allow multiple types of applications to fit the same basic pipeline structure. This has been a big win for injecting change and updating legacy applications.
+In large enterprises, there are a lot of moving parts to manage.</description>
     </item>
     
     <item>
@@ -52,18 +40,9 @@
       <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>http://barkerd427.github.io/talk/allthingsopen-architecting-future-abstractions-metadata/</guid>
-      <description>&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/gmiYos98vsce7F&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/secret/gmiYos98vsce7F&#34; title=&#34;Architecting the Future: Abstractions and Metadata - All Things Open&#34; target=&#34;_blank&#34;&gt;Architecting the Future: Abstractions and Metadata - All Things Open&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;https://www.slideshare.net/DanielBarker4&#34; target=&#34;_blank&#34;&gt;Daniel Barker&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;This talk will explore these concepts within k8s and Docker as well as work I&amp;rsquo;ve done in my current role around continuous delivery pipelines. Attendees will leave with an appreciation for these two concepts and the tools necessary to begin architecting their systems similarly.&lt;/p&gt;
-
-&lt;p&gt;Abstractions and metadata are the future of architecture in systems engineering as they were before in software engineering. In many languages, there are abstractions and metadata. However, systems engineering has never adopted this view. Systems were always thought of as too unique for any standard abstractions. Now we&amp;rsquo;ve standardized the lower-level abstractions and we’re ready to build new system-level abstractions.&lt;/p&gt;
-
-&lt;p&gt;Docker has become the standard unit of processing, which has alleviated many of the diversity issues within systems. Docker did this with abstractions around networking, cpu, memory, and filesystems.&lt;/p&gt;
-
-&lt;p&gt;Kubernetes is now using Docker to create higher-level abstractions, but they&amp;rsquo;ve even abstracted away the runtime. Kubernetes uses concepts like PersistentVolumes, Routes, Services, and Deployments as abstractions.&lt;/p&gt;
-
-&lt;p&gt;My team has created an abstraction around continuous delivery pipelines that provides us more flexibility with underlying resources. It&amp;rsquo;s a simple system based on certain abstractions and specific metadata. We&amp;rsquo;ve abstracted the build and deploy systems from the deployment pipeline model as well as accumulated metadata attributed to people, data, and pipelines to ensure security and compliance at scale.&lt;/p&gt;
-</description>
+      <description>Architecting the Future: Abstractions and Metadata - All Things Open  from Daniel Barker 
+This talk will explore these concepts within k8s and Docker as well as work I&amp;rsquo;ve done in my current role around continuous delivery pipelines. Attendees will leave with an appreciation for these two concepts and the tools necessary to begin architecting their systems similarly.
+Abstractions and metadata are the future of architecture in systems engineering as they were before in software engineering.</description>
     </item>
     
     <item>
@@ -72,14 +51,9 @@
       <pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>http://barkerd427.github.io/talk/jenkinsworld-leading-transformations-fintech/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.cvent.com/events/jenkins-world-2017/registration-1d623ea19a4a4af58e9a207ff0f020db.aspx?fqp=true&#34; target=&#34;_blank&#34;&gt;Register Now!&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Change initiatives are challenging in any established company, but they are even more challenging to start in highly regulated industries. There are constant concerns around compliance and security. It’s very important to alleviate these concerns early and often. This was one component of my strategy.&lt;/p&gt;
-
-&lt;p&gt;It’s also important to build shared experiences with the leadership of your company, but how do you do this as a low-level DevOps Engineer? It takes time and a lot of effort. It also takes a manager who sees the bigger picture. I’ll describe my journey in organizing the company around my vision from the hatching of the vision with a core team to expanding and solidifying that vision with executive sponsorship.&lt;/p&gt;
-
-&lt;p&gt;I’ve learned a lot from this process, and it will help others to hear this anecdote. I’ve pulled out some valuable concepts and principles to focus on, so the talk will be somewhat opinionated, but still encourage ideation in the audience. The audience will walk away with ideas to start their own change initiative no matter how big or small.&lt;/p&gt;
-</description>
+      <description>Register Now!
+Change initiatives are challenging in any established company, but they are even more challenging to start in highly regulated industries. There are constant concerns around compliance and security. It’s very important to alleviate these concerns early and often. This was one component of my strategy.
+It’s also important to build shared experiences with the leadership of your company, but how do you do this as a low-level DevOps Engineer?</description>
     </item>
     
     <item>
@@ -88,18 +62,9 @@
       <pubDate>Fri, 04 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>http://barkerd427.github.io/talk/kcdc-architecting-future-abstractions-metadata/</guid>
-      <description>&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/JoCKWsQgBXf5F&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/DanielBarker4/architecting-the-future-abstractions-and-metadata-kcdc&#34; title=&#34;Architecting the Future: Abstractions and Metadata - KCDC&#34; target=&#34;_blank&#34;&gt;Architecting the Future: Abstractions and Metadata - KCDC&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://www.slideshare.net/DanielBarker4&#34;&gt;Daniel Barker&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;This talk will explore these concepts within k8s and Docker as well as work I&amp;rsquo;ve done in my current role around continuous delivery pipelines. Attendees will leave with an appreciation for these two concepts and the tools necessary to begin architecting their systems similarly.&lt;/p&gt;
-
-&lt;p&gt;Abstractions and metadata are the future of architecture in systems engineering as they were before in software engineering. In many languages, there are abstractions and metadata. However, systems engineering has never adopted this view. Systems were always thought of as too unique for any standard abstractions. Now we&amp;rsquo;ve standardized the lower-level abstractions and we’re ready to build new system-level abstractions.&lt;/p&gt;
-
-&lt;p&gt;Docker has become the standard unit of processing, which has alleviated many of the diversity issues within systems. Docker did this with abstractions around networking, cpu, memory, and filesystems.&lt;/p&gt;
-
-&lt;p&gt;Kubernetes is now using Docker to create higher-level abstractions, but they&amp;rsquo;ve even abstracted away the runtime. Kubernetes uses concepts like PersistentVolumes, Routes, Services, and Deployments as abstractions.&lt;/p&gt;
-
-&lt;p&gt;My team has created an abstraction around continuous delivery pipelines that provides us more flexibility with underlying resources. It&amp;rsquo;s a simple system based on certain abstractions and specific metadata. We&amp;rsquo;ve abstracted the build and deploy systems from the deployment pipeline model as well as accumulated metadata attributed to people, data, and pipelines to ensure security and compliance at scale.&lt;/p&gt;
-</description>
+      <description>Architecting the Future: Abstractions and Metadata - KCDC  from Daniel Barker 
+This talk will explore these concepts within k8s and Docker as well as work I&amp;rsquo;ve done in my current role around continuous delivery pipelines. Attendees will leave with an appreciation for these two concepts and the tools necessary to begin architecting their systems similarly.
+Abstractions and metadata are the future of architecture in systems engineering as they were before in software engineering.</description>
     </item>
     
     <item>
@@ -108,18 +73,9 @@
       <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>http://barkerd427.github.io/talk/werise-architecting-future-abstractions-metadata/</guid>
-      <description>&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/IyMJUa17LRfOlz&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/DanielBarker4/architecting-the-future-werise-women-in-technology&#34; title=&#34;Architecting The Future - WeRise Women in Technology&#34; target=&#34;_blank&#34;&gt;Architecting The Future - WeRise Women in Technology&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://www.slideshare.net/DanielBarker4&#34;&gt;Daniel Barker&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;This talk will explore these concepts within k8s and Docker as well as work I&amp;rsquo;ve done in my current role around continuous delivery pipelines. Attendees will leave with an appreciation for these two concepts and the tools necessary to begin architecting their systems similarly.&lt;/p&gt;
-
-&lt;p&gt;Abstractions and metadata are the future of architecture in systems engineering as they were before in software engineering. In many languages, there are abstractions and metadata. However, systems engineering has never adopted this view. Systems were always thought of as too unique for any standard abstractions. Now we&amp;rsquo;ve standardized the lower-level abstractions and we’re ready to build new system-level abstractions.&lt;/p&gt;
-
-&lt;p&gt;Docker has become the standard unit of processing, which has alleviated many of the diversity issues within systems. Docker did this with abstractions around networking, cpu, memory, and filesystems.&lt;/p&gt;
-
-&lt;p&gt;Kubernetes is now using Docker to create higher-level abstractions, but they&amp;rsquo;ve even abstracted away the runtime. Kubernetes uses concepts like PersistentVolumes, Routes, Services, and Deployments as abstractions.&lt;/p&gt;
-
-&lt;p&gt;My team has created an abstraction around continuous delivery pipelines that provides us more flexibility with underlying resources. It&amp;rsquo;s a simple system based on certain abstractions and specific metadata. We&amp;rsquo;ve abstracted the build and deploy systems from the deployment pipeline model as well as accumulated metadata attributed to people, data, and pipelines to ensure security and compliance at scale.&lt;/p&gt;
-</description>
+      <description>Architecting The Future - WeRise Women in Technology  from Daniel Barker 
+This talk will explore these concepts within k8s and Docker as well as work I&amp;rsquo;ve done in my current role around continuous delivery pipelines. Attendees will leave with an appreciation for these two concepts and the tools necessary to begin architecting their systems similarly.
+Abstractions and metadata are the future of architecture in systems engineering as they were before in software engineering.</description>
     </item>
     
     <item>
@@ -128,16 +84,9 @@
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>http://barkerd427.github.io/talk/revolutionconf-becoming-plumber-building-deployment-pipelines/</guid>
-      <description>&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/IqNbvetJmh345U&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/DanielBarker4/becoming-a-plumber-building-deployment-pipelines-revconf&#34; title=&#34;Becoming a Plumber: Building Deployment Pipelines - RevConf&#34; target=&#34;_blank&#34;&gt;Becoming a Plumber: Building Deployment Pipelines - RevConf&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://www.slideshare.net/DanielBarker4&#34;&gt;Daniel Barker&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;A core part of our IT transformation program is the implementation of deployment pipelines for every application. Attendees will learn how to build abstract pipelines that will allow multiple types of applications to fit the same basic pipeline structure. This has been a big win for injecting change and updating legacy applications.&lt;/p&gt;
-
-&lt;p&gt;In large enterprises, there are a lot of moving parts to manage. Our company has historically acted as many individual companies, but we have pivoted toward a model where we can still maintain independence but leverage efficiencies of scale. My team was formed to help create a new platform for all our applications. We work with the business units and the rest of the IT organization to ensure everyone is aligning with our overall strategy.&lt;/p&gt;
-
-&lt;p&gt;We are building out a PaaS system using Kubernetes and Docker. Those are cool buzzwords, but the most important part is the deployment pipeline system. We’ve discovered how crucial it is to have every application in a deployment pipeline that can be easily managed centrally. In the past, it was nearly impossible to inject any kind of change into the deployment path when a new corporate policy or government regulation came out.&lt;/p&gt;
-
-&lt;p&gt;We’re now able to pivot applications from VMs, to Docker containers, to the public cloud. We’re also able to inject changes into our pipelines through our pipeline abstractions that our applications now use. Making an update just requires a change in the core pipeline model and then rebuilding all the dependent pipeline descriptions.&lt;/p&gt;
-</description>
+      <description>Becoming a Plumber: Building Deployment Pipelines - RevConf  from Daniel Barker 
+A core part of our IT transformation program is the implementation of deployment pipelines for every application. Attendees will learn how to build abstract pipelines that will allow multiple types of applications to fit the same basic pipeline structure. This has been a big win for injecting change and updating legacy applications.
+In large enterprises, there are a lot of moving parts to manage.</description>
     </item>
     
     <item>
@@ -146,18 +95,9 @@
       <pubDate>Thu, 25 May 2017 00:00:00 +0000</pubDate>
       
       <guid>http://barkerd427.github.io/talk/gluecon-architecting-future-abstractions-metadata/</guid>
-      <description>&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/liA2kqcAHWC7qd&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/DanielBarker4/architecting-the-future-abstractions-and-metadata-gluecon&#34; title=&#34;Architecting the Future: Abstractions and Metadata - GlueCon&#34; target=&#34;_blank&#34;&gt;Architecting the Future: Abstractions and Metadata - GlueCon&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://www.slideshare.net/DanielBarker4&#34;&gt;Daniel Barker&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;This talk will explore these concepts within k8s and Docker as well as work I&amp;rsquo;ve done in my current role around continuous delivery pipelines. Attendees will leave with an appreciation for these two concepts and the tools necessary to begin architecting their systems similarly.&lt;/p&gt;
-
-&lt;p&gt;Abstractions and metadata are the future of architecture in systems engineering as they were before in software engineering. In many languages, there are abstractions and metadata. However, systems engineering has never adopted this view. Systems were always thought of as too unique for any standard abstractions. Now we&amp;rsquo;ve standardized the lower-level abstractions and we’re ready to build new system-level abstractions.&lt;/p&gt;
-
-&lt;p&gt;Docker has become the standard unit of processing, which has alleviated many of the diversity issues within systems. Docker did this with abstractions around networking, cpu, memory, and filesystems.&lt;/p&gt;
-
-&lt;p&gt;Kubernetes is now using Docker to create higher-level abstractions, but they&amp;rsquo;ve even abstracted away the runtime. Kubernetes uses concepts like PersistentVolumes, Routes, Services, and Deployments as abstractions.&lt;/p&gt;
-
-&lt;p&gt;My team has created an abstraction around continuous delivery pipelines that provides us more flexibility with underlying resources. It&amp;rsquo;s a simple system based on certain abstractions and specific metadata. We&amp;rsquo;ve abstracted the build and deploy systems from the deployment pipeline model as well as accumulated metadata attributed to people, data, and pipelines to ensure security and compliance at scale.&lt;/p&gt;
-</description>
+      <description>Architecting the Future: Abstractions and Metadata - GlueCon  from Daniel Barker 
+This talk will explore these concepts within k8s and Docker as well as work I&amp;rsquo;ve done in my current role around continuous delivery pipelines. Attendees will leave with an appreciation for these two concepts and the tools necessary to begin architecting their systems similarly.
+Abstractions and metadata are the future of architecture in systems engineering as they were before in software engineering.</description>
     </item>
     
     <item>
@@ -166,18 +106,9 @@
       <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
       
       <guid>http://barkerd427.github.io/talk/bsideskc-architecting-future-abstractions-metadata/</guid>
-      <description>&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/LqJNDRELBFW9YU&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/DanielBarker4/architecting-the-future-abstractions-and-metadata-bsideskc&#34; title=&#34;Architecting the Future: Abstractions and Metadata - BSidesKC&#34; target=&#34;_blank&#34;&gt;Architecting the Future: Abstractions and Metadata - BSidesKC&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://www.slideshare.net/DanielBarker4&#34;&gt;Daniel Barker&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;This talk will explore these concepts within k8s and Docker as well as work I&amp;rsquo;ve done in my current role around continuous delivery pipelines. Attendees will leave with an appreciation for these two concepts and the tools necessary to begin architecting their systems similarly.&lt;/p&gt;
-
-&lt;p&gt;Abstractions and metadata are the future of architecture in systems engineering as they were before in software engineering. In many languages, there are abstractions and metadata. However, systems engineering has never adopted this view. Systems were always thought of as too unique for any standard abstractions. Now we&amp;rsquo;ve standardized the lower-level abstractions and we’re ready to build new system-level abstractions.&lt;/p&gt;
-
-&lt;p&gt;Docker has become the standard unit of processing, which has alleviated many of the diversity issues within systems. Docker did this with abstractions around networking, cpu, memory, and filesystems.&lt;/p&gt;
-
-&lt;p&gt;Kubernetes is now using Docker to create higher-level abstractions, but they&amp;rsquo;ve even abstracted away the runtime. Kubernetes uses concepts like PersistentVolumes, Routes, Services, and Deployments as abstractions.&lt;/p&gt;
-
-&lt;p&gt;My team has created an abstraction around continuous delivery pipelines that provides us more flexibility with underlying resources. It&amp;rsquo;s a simple system based on certain abstractions and specific metadata. We&amp;rsquo;ve abstracted the build and deploy systems from the deployment pipeline model as well as accumulated metadata attributed to people, data, and pipelines to ensure security and compliance at scale.&lt;/p&gt;
-</description>
+      <description>Architecting the Future: Abstractions and Metadata - BSidesKC  from Daniel Barker 
+This talk will explore these concepts within k8s and Docker as well as work I&amp;rsquo;ve done in my current role around continuous delivery pipelines. Attendees will leave with an appreciation for these two concepts and the tools necessary to begin architecting their systems similarly.
+Abstractions and metadata are the future of architecture in systems engineering as they were before in software engineering.</description>
     </item>
     
     <item>
@@ -186,18 +117,9 @@
       <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
       
       <guid>http://barkerd427.github.io/talk/codestock-architecting-future-abstractions-metadata/</guid>
-      <description>&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/J5seCWwXE06MHJ&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/DanielBarker4/architecting-the-future-abstractions-and-metadata-codestock&#34; title=&#34;Architecting the Future: Abstractions and Metadata - CodeStock&#34; target=&#34;_blank&#34;&gt;Architecting the Future: Abstractions and Metadata - CodeStock&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://www.slideshare.net/DanielBarker4&#34;&gt;Daniel Barker&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;This talk will explore these concepts within k8s and Docker as well as work I&amp;rsquo;ve done in my current role around continuous delivery pipelines. Attendees will leave with an appreciation for these two concepts and the tools necessary to begin architecting their systems similarly.&lt;/p&gt;
-
-&lt;p&gt;Abstractions and metadata are the future of architecture in systems engineering as they were before in software engineering. In many languages, there are abstractions and metadata. However, systems engineering has never adopted this view. Systems were always thought of as too unique for any standard abstractions. Now we&amp;rsquo;ve standardized the lower-level abstractions and we’re ready to build new system-level abstractions.&lt;/p&gt;
-
-&lt;p&gt;Docker has become the standard unit of processing, which has alleviated many of the diversity issues within systems. Docker did this with abstractions around networking, cpu, memory, and filesystems.&lt;/p&gt;
-
-&lt;p&gt;Kubernetes is now using Docker to create higher-level abstractions, but they&amp;rsquo;ve even abstracted away the runtime. Kubernetes uses concepts like PersistentVolumes, Routes, Services, and Deployments as abstractions.&lt;/p&gt;
-
-&lt;p&gt;My team has created an abstraction around continuous delivery pipelines that provides us more flexibility with underlying resources. It&amp;rsquo;s a simple system based on certain abstractions and specific metadata. We&amp;rsquo;ve abstracted the build and deploy systems from the deployment pipeline model as well as accumulated metadata attributed to people, data, and pipelines to ensure security and compliance at scale.&lt;/p&gt;
-</description>
+      <description>Architecting the Future: Abstractions and Metadata - CodeStock  from Daniel Barker 
+This talk will explore these concepts within k8s and Docker as well as work I&amp;rsquo;ve done in my current role around continuous delivery pipelines. Attendees will leave with an appreciation for these two concepts and the tools necessary to begin architecting their systems similarly.
+Abstractions and metadata are the future of architecture in systems engineering as they were before in software engineering.</description>
     </item>
     
     <item>
@@ -206,18 +128,9 @@
       <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
       
       <guid>http://barkerd427.github.io/talk/stlsilverlinings-architecting-future-abstractions-metadata/</guid>
-      <description>&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/cdAOsXyTpJVlI8&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/DanielBarker4/architecting-the-future-stl-silverlinings-75601607&#34; title=&#34;Architecting the future STL SilverLinings&#34; target=&#34;_blank&#34;&gt;Architecting the future STL SilverLinings&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://www.slideshare.net/DanielBarker4&#34;&gt;Daniel Barker&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;This talk will explore these concepts within k8s and Docker as well as work I&amp;rsquo;ve done in my current role around continuous delivery pipelines. Attendees will leave with an appreciation for these two concepts and the tools necessary to begin architecting their systems similarly.&lt;/p&gt;
-
-&lt;p&gt;Abstractions and metadata are the future of architecture in systems engineering as they were before in software engineering. In many languages, there are abstractions and metadata. However, systems engineering has never adopted this view. Systems were always thought of as too unique for any standard abstractions. Now we&amp;rsquo;ve standardized the lower-level abstractions and we’re ready to build new system-level abstractions.&lt;/p&gt;
-
-&lt;p&gt;Docker has become the standard unit of processing, which has alleviated many of the diversity issues within systems. Docker did this with abstractions around networking, cpu, memory, and filesystems.&lt;/p&gt;
-
-&lt;p&gt;Kubernetes is now using Docker to create higher-level abstractions, but they&amp;rsquo;ve even abstracted away the runtime. Kubernetes uses concepts like PersistentVolumes, Routes, Services, and Deployments as abstractions.&lt;/p&gt;
-
-&lt;p&gt;My team has created an abstraction around continuous delivery pipelines that provides us more flexibility with underlying resources. It&amp;rsquo;s a simple system based on certain abstractions and specific metadata. We&amp;rsquo;ve abstracted the build and deploy systems from the deployment pipeline model as well as accumulated metadata attributed to people, data, and pipelines to ensure security and compliance at scale.&lt;/p&gt;
-</description>
+      <description>Architecting the future STL SilverLinings  from Daniel Barker 
+This talk will explore these concepts within k8s and Docker as well as work I&amp;rsquo;ve done in my current role around continuous delivery pipelines. Attendees will leave with an appreciation for these two concepts and the tools necessary to begin architecting their systems similarly.
+Abstractions and metadata are the future of architecture in systems engineering as they were before in software engineering.</description>
     </item>
     
     <item>
@@ -226,14 +139,9 @@
       <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
       
       <guid>http://barkerd427.github.io/talk/stlsilverlinings-leading-transformations-fintech/</guid>
-      <description>&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/KgN6X7rRzRG6Wi&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/DanielBarker4/leading-transformations-in-fintech-stl-silverlinings&#34; title=&#34;Leading Transformations in FinTech STL SilverLinings&#34; target=&#34;_blank&#34;&gt;Leading Transformations in FinTech STL SilverLinings&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://www.slideshare.net/DanielBarker4&#34;&gt;Daniel Barker&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;Change initiatives are challenging in any established company, but they are even more challenging to start in highly regulated industries. There are constant concerns around compliance and security. It’s very important to alleviate these concerns early and often. This was one component of my strategy.&lt;/p&gt;
-
-&lt;p&gt;It’s also important to build shared experiences with the leadership of your company, but how do you do this as a low-level DevOps Engineer? It takes time and a lot of effort. It also takes a manager who sees the bigger picture. I’ll describe my journey in organizing the company around my vision from the hatching of the vision with a core team to expanding and solidifying that vision with executive sponsorship.&lt;/p&gt;
-
-&lt;p&gt;I’ve learned a lot from this process, and it will help others to hear this anecdote. I’ve pulled out some valuable concepts and principles to focus on, so the talk will be somewhat opinionated, but still encourage ideation in the audience. The audience will walk away with ideas to start their own change initiative no matter how big or small.&lt;/p&gt;
-</description>
+      <description>Leading Transformations in FinTech STL SilverLinings  from Daniel Barker 
+Change initiatives are challenging in any established company, but they are even more challenging to start in highly regulated industries. There are constant concerns around compliance and security. It’s very important to alleviate these concerns early and often. This was one component of my strategy.
+It’s also important to build shared experiences with the leadership of your company, but how do you do this as a low-level DevOps Engineer?</description>
     </item>
     
     <item>
@@ -242,12 +150,7 @@
       <pubDate>Sat, 10 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>http://barkerd427.github.io/talk/what-is-devops/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/OjgZXbeUDng&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-</description>
+      <description>   </description>
     </item>
     
     <item>
@@ -256,12 +159,7 @@
       <pubDate>Thu, 29 Sep 2016 00:00:00 +0000</pubDate>
       
       <guid>http://barkerd427.github.io/talk/new-view-human-error/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/BAoprp8_r7o&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-</description>
+      <description>   </description>
     </item>
     
     <item>
@@ -270,12 +168,25 @@
       <pubDate>Wed, 31 Aug 2016 00:00:00 +0000</pubDate>
       
       <guid>http://barkerd427.github.io/talk/devsecops-crash-course/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/d3ExzKvHkl0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-</description>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Elastic Jenkins</title>
+      <link>http://barkerd427.github.io/talk/elastic-jenkins/</link>
+      <pubDate>Fri, 19 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://barkerd427.github.io/talk/elastic-jenkins/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Docker: Fundamental Change</title>
+      <link>http://barkerd427.github.io/talk/docker-fundamental-change/</link>
+      <pubDate>Tue, 03 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://barkerd427.github.io/talk/docker-fundamental-change/</guid>
+      <description>   </description>
     </item>
     
   </channel>

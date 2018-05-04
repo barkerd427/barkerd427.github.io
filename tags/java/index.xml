@@ -2,21 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Java on Dan Barker - Learn, Teach, Lead</title>
-    <link>http://barkerd427.github.io/tags/java/index.xml</link>
+    <link>http://barkerd427.github.io/tags/java/</link>
     <description>Recent content in Java on Dan Barker - Learn, Teach, Lead</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Dan Barker</copyright>
-    <atom:link href="/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Jul 2014 11:32:49 -0500</lastBuildDate>
+    
+	<atom:link href="http://barkerd427.github.io/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>JVM Profiling From Afar</title>
-      <link>http://barkerd427.github.io/2014/07/12/jvm-profiling-from-afar</link>
+      <link>http://barkerd427.github.io/2014/07/12/jvm-profiling-from-afar/</link>
       <pubDate>Sat, 12 Jul 2014 11:32:49 -0500</pubDate>
       
-      <guid>http://barkerd427.github.io/2014/07/12/jvm-profiling-from-afar</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://blog.dbdevs.com/2014/07/jvm-profiling-from-afar.html&#34; target=&#34;_blank&#34;&gt;Here&amp;rsquo;s the original post.&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>http://barkerd427.github.io/2014/07/12/jvm-profiling-from-afar/</guid>
+      <description>Here&amp;rsquo;s the original post.</description>
     </item>
     
   </channel>

@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dan Barker - Learn, Teach, Lead on Dan Barker - Learn, Teach, Lead</title>
-    <link>http://barkerd427.github.io/index.xml</link>
+    <link>http://barkerd427.github.io/</link>
     <description>Recent content in Dan Barker - Learn, Teach, Lead on Dan Barker - Learn, Teach, Lead</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Dan Barker</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Becoming a Plumber: Building Deployment Pipelines</title>
@@ -238,10 +238,10 @@
     
     <item>
       <title>your hard outer shell is BS</title>
-      <link>http://barkerd427.github.io/2017/04/09/your-hard-outer-shell-is-bs</link>
+      <link>http://barkerd427.github.io/2017/04/09/your-hard-outer-shell-is-bs/</link>
       <pubDate>Sun, 09 Apr 2017 10:09:49 -0500</pubDate>
       
-      <guid>http://barkerd427.github.io/2017/04/09/your-hard-outer-shell-is-bs</guid>
+      <guid>http://barkerd427.github.io/2017/04/09/your-hard-outer-shell-is-bs/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://medium.com/@barkerd427/your-hard-outer-shell-is-bs-79d3d7fd96cd&#34; target=&#34;_blank&#34;&gt;Here&amp;rsquo;s the original post.&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
@@ -254,7 +254,7 @@
       <guid>http://barkerd427.github.io/talk/what-is-devops/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/OjgZXbeUDng&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/OjgZXbeUDng&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
  &lt;/div&gt;
 
 </description>
@@ -268,7 +268,7 @@
       <guid>http://barkerd427.github.io/talk/new-view-human-error/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/BAoprp8_r7o&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/BAoprp8_r7o&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
  &lt;/div&gt;
 
 </description>

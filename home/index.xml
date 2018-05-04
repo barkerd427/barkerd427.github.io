@@ -2,13 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Dan Barker - Learn, Teach, Lead</title>
-    <link>http://barkerd427.github.io/home/index.xml</link>
+    <link>http://barkerd427.github.io/home/</link>
     <description>Recent content in Homes on Dan Barker - Learn, Teach, Lead</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Dan Barker</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://barkerd427.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://barkerd427.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://barkerd427.github.io/home/about/</guid>
+      <description>Biography Dan spent 12 years in the military as a mechanic on fighter jets, like the F-16, before transitioning to a career in technology as a Software Engineer, then a DevOps Engineer, a Software Development Manager, and now a Chief Architect. He&amp;rsquo;s leading the technical and cultural transformation for the NAIC, a non-profit focused on consumer protection in the insurance industry. Dan is also an organizer of the DevOps KC Meetup and the DevOpsDays KC conference.</description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>http://barkerd427.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://barkerd427.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>http://barkerd427.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://barkerd427.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://barkerd427.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://barkerd427.github.io/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

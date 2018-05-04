@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Dan Barker - Learn, Teach, Lead</title>
+    <link>http://barkerd427.github.io/tags/</link>
+    <description>Recent content in Tags on Dan Barker - Learn, Teach, Lead</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Dan Barker</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://barkerd427.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Content tagged as &#39;Academic&#39;</title>
+      <link>http://barkerd427.github.io/tags/academic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/academic/</guid>
+      <description>Here is a list of all the content that has been tagged as academic.</description>
+    </item>
+    
+    <item>
+      <title>Apache</title>
+      <link>http://barkerd427.github.io/tags/apache/</link>
+      <pubDate>Mon, 01 Dec 2014 08:55:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/apache/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Architecture</title>
+      <link>http://barkerd427.github.io/tags/architecture/</link>
+      <pubDate>Thu, 23 Jun 2016 10:09:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Deployments</title>
+      <link>http://barkerd427.github.io/tags/automated-deployments/</link>
+      <pubDate>Mon, 01 Dec 2014 08:55:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/automated-deployments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boot2docker</title>
+      <link>http://barkerd427.github.io/tags/boot2docker/</link>
+      <pubDate>Sun, 30 Nov 2014 15:34:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/boot2docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Business</title>
+      <link>http://barkerd427.github.io/tags/business/</link>
+      <pubDate>Mon, 16 May 2016 10:09:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Containers</title>
+      <link>http://barkerd427.github.io/tags/containers/</link>
+      <pubDate>Fri, 05 Dec 2014 10:09:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/containers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cpu</title>
+      <link>http://barkerd427.github.io/tags/cpu/</link>
+      <pubDate>Sat, 12 Jul 2014 11:32:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/cpu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Culture</title>
+      <link>http://barkerd427.github.io/tags/culture/</link>
+      <pubDate>Thu, 23 Jun 2016 10:09:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/culture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Devops</title>
+      <link>http://barkerd427.github.io/tags/devops/</link>
+      <pubDate>Thu, 23 Jun 2016 10:09:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>http://barkerd427.github.io/tags/docker/</link>
+      <pubDate>Fri, 05 Dec 2014 10:09:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker Containers</title>
+      <link>http://barkerd427.github.io/tags/docker-containers/</link>
+      <pubDate>Fri, 05 Dec 2014 10:09:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/docker-containers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker Images</title>
+      <link>http://barkerd427.github.io/tags/docker-images/</link>
+      <pubDate>Fri, 05 Dec 2014 10:09:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/docker-images/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker Registry</title>
+      <link>http://barkerd427.github.io/tags/docker-registry/</link>
+      <pubDate>Mon, 01 Dec 2014 08:55:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/docker-registry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Domain Routing</title>
+      <link>http://barkerd427.github.io/tags/domain-routing/</link>
+      <pubDate>Mon, 01 Dec 2014 08:55:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/domain-routing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Encryption</title>
+      <link>http://barkerd427.github.io/tags/encryption/</link>
+      <pubDate>Sun, 09 Apr 2017 10:09:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/encryption/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Failure</title>
+      <link>http://barkerd427.github.io/tags/failure/</link>
+      <pubDate>Wed, 23 Mar 2016 10:09:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/failure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fear of Failure</title>
+      <link>http://barkerd427.github.io/tags/fear-of-failure/</link>
+      <pubDate>Wed, 23 Mar 2016 10:09:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/fear-of-failure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fundamentals</title>
+      <link>http://barkerd427.github.io/tags/fundamentals/</link>
+      <pubDate>Sun, 30 Nov 2014 15:34:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/fundamentals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haproxy</title>
+      <link>http://barkerd427.github.io/tags/haproxy/</link>
+      <pubDate>Mon, 01 Dec 2014 08:55:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/haproxy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Httpd</title>
+      <link>http://barkerd427.github.io/tags/httpd/</link>
+      <pubDate>Mon, 01 Dec 2014 08:55:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/httpd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human Error</title>
+      <link>http://barkerd427.github.io/tags/human-error/</link>
+      <pubDate>Wed, 23 Mar 2016 10:09:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/human-error/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human Factors</title>
+      <link>http://barkerd427.github.io/tags/human-factors/</link>
+      <pubDate>Wed, 23 Mar 2016 10:09:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/human-factors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Images</title>
+      <link>http://barkerd427.github.io/tags/images/</link>
+      <pubDate>Fri, 05 Dec 2014 10:09:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/images/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>http://barkerd427.github.io/tags/java/</link>
+      <pubDate>Sat, 12 Jul 2014 11:32:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jvm</title>
+      <link>http://barkerd427.github.io/tags/jvm/</link>
+      <pubDate>Sat, 12 Jul 2014 11:32:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/jvm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lxc</title>
+      <link>http://barkerd427.github.io/tags/lxc/</link>
+      <pubDate>Mon, 01 Dec 2014 08:55:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/lxc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mac</title>
+      <link>http://barkerd427.github.io/tags/mac/</link>
+      <pubDate>Sun, 30 Nov 2014 15:34:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/mac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Memory</title>
+      <link>http://barkerd427.github.io/tags/memory/</link>
+      <pubDate>Sat, 12 Jul 2014 11:32:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitoring</title>
+      <link>http://barkerd427.github.io/tags/monitoring/</link>
+      <pubDate>Mon, 25 Apr 2016 10:09:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/monitoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple Domains</title>
+      <link>http://barkerd427.github.io/tags/multiple-domains/</link>
+      <pubDate>Mon, 01 Dec 2014 08:55:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/multiple-domains/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Netbeans</title>
+      <link>http://barkerd427.github.io/tags/netbeans/</link>
+      <pubDate>Sat, 12 Jul 2014 11:32:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/netbeans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Organizational Change</title>
+      <link>http://barkerd427.github.io/tags/organizational-change/</link>
+      <pubDate>Thu, 23 Jun 2016 10:09:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/organizational-change/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance</title>
+      <link>http://barkerd427.github.io/tags/performance/</link>
+      <pubDate>Sat, 12 Jul 2014 11:32:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/performance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal Development</title>
+      <link>http://barkerd427.github.io/tags/personal-development/</link>
+      <pubDate>Thu, 21 Apr 2016 10:09:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/personal-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Process</title>
+      <link>http://barkerd427.github.io/tags/process/</link>
+      <pubDate>Sat, 12 Jul 2014 11:32:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Profile</title>
+      <link>http://barkerd427.github.io/tags/profile/</link>
+      <pubDate>Sat, 12 Jul 2014 11:32:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/profile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Profiling</title>
+      <link>http://barkerd427.github.io/tags/profiling/</link>
+      <pubDate>Sat, 12 Jul 2014 11:32:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/profiling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Remote</title>
+      <link>http://barkerd427.github.io/tags/remote/</link>
+      <pubDate>Sat, 12 Jul 2014 11:32:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/remote/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rhel</title>
+      <link>http://barkerd427.github.io/tags/rhel/</link>
+      <pubDate>Mon, 01 Dec 2014 08:55:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/rhel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>http://barkerd427.github.io/tags/security/</link>
+      <pubDate>Sun, 09 Apr 2017 10:09:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Server</title>
+      <link>http://barkerd427.github.io/tags/server/</link>
+      <pubDate>Sat, 12 Jul 2014 11:32:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Development</title>
+      <link>http://barkerd427.github.io/tags/software-development/</link>
+      <pubDate>Thu, 23 Jun 2016 10:09:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/software-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thread</title>
+      <link>http://barkerd427.github.io/tags/thread/</link>
+      <pubDate>Sat, 12 Jul 2014 11:32:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/thread/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tomcat</title>
+      <link>http://barkerd427.github.io/tags/tomcat/</link>
+      <pubDate>Sat, 12 Jul 2014 11:32:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/tomcat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vagrant</title>
+      <link>http://barkerd427.github.io/tags/vagrant/</link>
+      <pubDate>Mon, 18 Aug 2014 09:45:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/vagrant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtual Hosts</title>
+      <link>http://barkerd427.github.io/tags/virtual-hosts/</link>
+      <pubDate>Mon, 01 Dec 2014 08:55:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/virtual-hosts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualvm</title>
+      <link>http://barkerd427.github.io/tags/visualvm/</link>
+      <pubDate>Sat, 12 Jul 2014 11:32:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/visualvm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Development</title>
+      <link>http://barkerd427.github.io/tags/web-development/</link>
+      <pubDate>Mon, 25 Apr 2016 10:09:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/web-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Websites</title>
+      <link>http://barkerd427.github.io/tags/websites/</link>
+      <pubDate>Mon, 01 Dec 2014 08:55:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/websites/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

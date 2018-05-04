@@ -2,132 +2,122 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Dan Barker - Learn, Teach, Lead</title>
-    <link>http://barkerd427.github.io/post/index.xml</link>
+    <link>http://barkerd427.github.io/post/</link>
     <description>Recent content in Posts on Dan Barker - Learn, Teach, Lead</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Dan Barker</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://barkerd427.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>your hard outer shell is BS</title>
-      <link>http://barkerd427.github.io/2017/04/09/your-hard-outer-shell-is-bs</link>
+      <link>http://barkerd427.github.io/2017/04/09/your-hard-outer-shell-is-bs/</link>
       <pubDate>Sun, 09 Apr 2017 10:09:49 -0500</pubDate>
       
-      <guid>http://barkerd427.github.io/2017/04/09/your-hard-outer-shell-is-bs</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://medium.com/@barkerd427/your-hard-outer-shell-is-bs-79d3d7fd96cd&#34; target=&#34;_blank&#34;&gt;Here&amp;rsquo;s the original post.&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>http://barkerd427.github.io/2017/04/09/your-hard-outer-shell-is-bs/</guid>
+      <description>Here&amp;rsquo;s the original post.</description>
     </item>
     
     <item>
       <title>architect your org before you architect your system</title>
-      <link>http://barkerd427.github.io/2016/06/23/architect-your-org-before-you-architect-your-system</link>
+      <link>http://barkerd427.github.io/2016/06/23/architect-your-org-before-you-architect-your-system/</link>
       <pubDate>Thu, 23 Jun 2016 10:09:49 -0500</pubDate>
       
-      <guid>http://barkerd427.github.io/2016/06/23/architect-your-org-before-you-architect-your-system</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://medium.com/@barkerd427/architect-your-org-before-you-architect-your-system-3a0a8f4db3a6&#34; target=&#34;_blank&#34;&gt;Here&amp;rsquo;s the original post.&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>http://barkerd427.github.io/2016/06/23/architect-your-org-before-you-architect-your-system/</guid>
+      <description>Here&amp;rsquo;s the original post.</description>
     </item>
     
     <item>
       <title>defining devops</title>
-      <link>http://barkerd427.github.io/2016/05/16/defining-devops</link>
+      <link>http://barkerd427.github.io/2016/05/16/defining-devops/</link>
       <pubDate>Mon, 16 May 2016 10:09:49 -0500</pubDate>
       
-      <guid>http://barkerd427.github.io/2016/05/16/defining-devops</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://medium.com/@barkerd427/defining-devops-dbaa82d818cb&#34; target=&#34;_blank&#34;&gt;Here&amp;rsquo;s the original post.&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>http://barkerd427.github.io/2016/05/16/defining-devops/</guid>
+      <description>Here&amp;rsquo;s the original post.</description>
     </item>
     
     <item>
       <title>your customers are not a monitoring tool</title>
-      <link>http://barkerd427.github.io/2016/04/25/your-customers-are-not-a-monitoring-tool</link>
+      <link>http://barkerd427.github.io/2016/04/25/your-customers-are-not-a-monitoring-tool/</link>
       <pubDate>Mon, 25 Apr 2016 10:09:49 -0500</pubDate>
       
-      <guid>http://barkerd427.github.io/2016/04/25/your-customers-are-not-a-monitoring-tool</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://medium.com/@barkerd427/your-customers-are-not-a-monitoring-tool-9c1dafb2b8ca&#34; target=&#34;_blank&#34;&gt;Here&amp;rsquo;s the original post.&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>http://barkerd427.github.io/2016/04/25/your-customers-are-not-a-monitoring-tool/</guid>
+      <description>Here&amp;rsquo;s the original post.</description>
     </item>
     
     <item>
       <title>devops starts today…with you</title>
-      <link>http://barkerd427.github.io/2016/04/21/devops-starts-todaywith-you</link>
+      <link>http://barkerd427.github.io/2016/04/21/devops-starts-todaywith-you/</link>
       <pubDate>Thu, 21 Apr 2016 10:09:49 -0500</pubDate>
       
-      <guid>http://barkerd427.github.io/2016/04/21/devops-starts-todaywith-you</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://medium.com/@barkerd427/devops-starts-today-with-you-2bf90c7f835b&#34; target=&#34;_blank&#34;&gt;Here&amp;rsquo;s the original post.&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>http://barkerd427.github.io/2016/04/21/devops-starts-todaywith-you/</guid>
+      <description>Here&amp;rsquo;s the original post.</description>
     </item>
     
     <item>
       <title>Failure is the Only Option</title>
-      <link>http://barkerd427.github.io/2016/03/23/failure-is-the-only-option</link>
+      <link>http://barkerd427.github.io/2016/03/23/failure-is-the-only-option/</link>
       <pubDate>Wed, 23 Mar 2016 10:09:49 -0500</pubDate>
       
-      <guid>http://barkerd427.github.io/2016/03/23/failure-is-the-only-option</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://medium.com/@barkerd427/failure-is-the-only-option-3c390fed5378&#34; target=&#34;_blank&#34;&gt;Here&amp;rsquo;s the original post.&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>http://barkerd427.github.io/2016/03/23/failure-is-the-only-option/</guid>
+      <description>Here&amp;rsquo;s the original post.</description>
     </item>
     
     <item>
       <title>Docker: Containers != Images</title>
-      <link>http://barkerd427.github.io/2014/12/05/docker-containers--images</link>
+      <link>http://barkerd427.github.io/2014/12/05/docker-containers--images/</link>
       <pubDate>Fri, 05 Dec 2014 10:09:49 -0500</pubDate>
       
-      <guid>http://barkerd427.github.io/2014/12/05/docker-containers--images</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://blog.dbdevs.com/2014/12/docker-containers-images.html&#34; target=&#34;_blank&#34;&gt;Here&amp;rsquo;s the original post.&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>http://barkerd427.github.io/2014/12/05/docker-containers--images/</guid>
+      <description>Here&amp;rsquo;s the original post.</description>
     </item>
     
     <item>
       <title>Docker: Adding HAProxy and Fig to my docker websites</title>
-      <link>http://barkerd427.github.io/2014/12/01/docker-adding-haproxy-and-fig-to-my-docker-websites</link>
+      <link>http://barkerd427.github.io/2014/12/01/docker-adding-haproxy-and-fig-to-my-docker-websites/</link>
       <pubDate>Mon, 01 Dec 2014 08:55:49 -0500</pubDate>
       
-      <guid>http://barkerd427.github.io/2014/12/01/docker-adding-haproxy-and-fig-to-my-docker-websites</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://blog.dbdevs.com/2014/12/docker-adding-haproxy-and-fig-to-my.html&#34; target=&#34;_blank&#34;&gt;Here&amp;rsquo;s the original post.&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>http://barkerd427.github.io/2014/12/01/docker-adding-haproxy-and-fig-to-my-docker-websites/</guid>
+      <description>Here&amp;rsquo;s the original post.</description>
     </item>
     
     <item>
       <title>Docker: How I dockerized my websites</title>
-      <link>http://barkerd427.github.io/2014/12/01/docker-how-i-dockerized-my-websites</link>
+      <link>http://barkerd427.github.io/2014/12/01/docker-how-i-dockerized-my-websites/</link>
       <pubDate>Mon, 01 Dec 2014 08:55:49 -0500</pubDate>
       
-      <guid>http://barkerd427.github.io/2014/12/01/docker-how-i-dockerized-my-websites</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://blog.dbdevs.com/2014/12/docker-how-i-dockerized-my-websites.html&#34; target=&#34;_blank&#34;&gt;Here&amp;rsquo;s the original post.&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>http://barkerd427.github.io/2014/12/01/docker-how-i-dockerized-my-websites/</guid>
+      <description>Here&amp;rsquo;s the original post.</description>
     </item>
     
     <item>
       <title>Docker: The basics (with Mac OS X and boot2docker)</title>
-      <link>http://barkerd427.github.io/2014/11/30/docker-the-basics-with-mac-os-x-and-boot2docker</link>
+      <link>http://barkerd427.github.io/2014/11/30/docker-the-basics-with-mac-os-x-and-boot2docker/</link>
       <pubDate>Sun, 30 Nov 2014 15:34:49 -0500</pubDate>
       
-      <guid>http://barkerd427.github.io/2014/11/30/docker-the-basics-with-mac-os-x-and-boot2docker</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://blog.dbdevs.com/2014/11/docker-basics-with-mac-os-x-and.html&#34; target=&#34;_blank&#34;&gt;Here&amp;rsquo;s the original post.&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>http://barkerd427.github.io/2014/11/30/docker-the-basics-with-mac-os-x-and-boot2docker/</guid>
+      <description>Here&amp;rsquo;s the original post.</description>
     </item>
     
     <item>
       <title>Create a base docker image (RHEL) from vagrant</title>
-      <link>http://barkerd427.github.io/2014/08/18/create-a-base-docker-image-rhel-from-vagrant</link>
+      <link>http://barkerd427.github.io/2014/08/18/create-a-base-docker-image-rhel-from-vagrant/</link>
       <pubDate>Mon, 18 Aug 2014 09:45:49 -0500</pubDate>
       
-      <guid>http://barkerd427.github.io/2014/08/18/create-a-base-docker-image-rhel-from-vagrant</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://blog.dbdevs.com/2014/08/create-base-docker-image-rhel-from.html&#34; target=&#34;_blank&#34;&gt;Here&amp;rsquo;s the original post.&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>http://barkerd427.github.io/2014/08/18/create-a-base-docker-image-rhel-from-vagrant/</guid>
+      <description>Here&amp;rsquo;s the original post.</description>
     </item>
     
     <item>
       <title>JVM Profiling From Afar</title>
-      <link>http://barkerd427.github.io/2014/07/12/jvm-profiling-from-afar</link>
+      <link>http://barkerd427.github.io/2014/07/12/jvm-profiling-from-afar/</link>
       <pubDate>Sat, 12 Jul 2014 11:32:49 -0500</pubDate>
       
-      <guid>http://barkerd427.github.io/2014/07/12/jvm-profiling-from-afar</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://blog.dbdevs.com/2014/07/jvm-profiling-from-afar.html&#34; target=&#34;_blank&#34;&gt;Here&amp;rsquo;s the original post.&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>http://barkerd427.github.io/2014/07/12/jvm-profiling-from-afar/</guid>
+      <description>Here&amp;rsquo;s the original post.</description>
     </item>
     
   </channel>

@@ -2,21 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Domain Routing on Dan Barker - Learn, Teach, Lead</title>
-    <link>http://barkerd427.github.io/tags/domain-routing/index.xml</link>
+    <link>http://barkerd427.github.io/tags/domain-routing/</link>
     <description>Recent content in Domain Routing on Dan Barker - Learn, Teach, Lead</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Dan Barker</copyright>
-    <atom:link href="/tags/domain-routing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Dec 2014 08:55:49 -0500</lastBuildDate>
+    
+	<atom:link href="http://barkerd427.github.io/tags/domain-routing/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Docker: Adding HAProxy and Fig to my docker websites</title>
-      <link>http://barkerd427.github.io/2014/12/01/docker-adding-haproxy-and-fig-to-my-docker-websites</link>
+      <link>http://barkerd427.github.io/2014/12/01/docker-adding-haproxy-and-fig-to-my-docker-websites/</link>
       <pubDate>Mon, 01 Dec 2014 08:55:49 -0500</pubDate>
       
-      <guid>http://barkerd427.github.io/2014/12/01/docker-adding-haproxy-and-fig-to-my-docker-websites</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://blog.dbdevs.com/2014/12/docker-adding-haproxy-and-fig-to-my.html&#34; target=&#34;_blank&#34;&gt;Here&amp;rsquo;s the original post.&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>http://barkerd427.github.io/2014/12/01/docker-adding-haproxy-and-fig-to-my-docker-websites/</guid>
+      <description>Here&amp;rsquo;s the original post.</description>
     </item>
     
   </channel>
