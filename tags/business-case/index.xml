@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Business Case on Dan Barker - Learn, Teach, Lead</title>
+    <link>http://barkerd427.github.io/tags/business-case/</link>
+    <description>Recent content in Business Case on Dan Barker - Learn, Teach, Lead</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Dan Barker</copyright>
+    <lastBuildDate>Wed, 28 Feb 2018 10:09:49 -0500</lastBuildDate>
+    
+	<atom:link href="http://barkerd427.github.io/tags/business-case/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to build a business case for DevOps transformation</title>
+      <link>http://barkerd427.github.io/2018/02/28/how-to-build-a-business-case-for-devops-transformation/</link>
+      <pubDate>Wed, 28 Feb 2018 10:09:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/2018/02/28/how-to-build-a-business-case-for-devops-transformation/</guid>
+      <description>Here&amp;rsquo;s the original post.</description>
+    </item>
+    
+  </channel>
+</rss>
