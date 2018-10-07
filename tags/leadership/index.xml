@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leadership on Dan Barker - Learn, Teach, Lead</title>
+    <link>http://barkerd427.github.io/tags/leadership/</link>
+    <description>Recent content in Leadership on Dan Barker - Learn, Teach, Lead</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Dan Barker</copyright>
+    <lastBuildDate>Mon, 24 Sep 2018 10:09:49 -0500</lastBuildDate>
+    
+	<atom:link href="http://barkerd427.github.io/tags/leadership/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>7 leadership skills that will make or break your DevOps transformation</title>
+      <link>http://barkerd427.github.io/2018/09/24/7-leadership-skills-that-will-make-or-break-your-devops-transformation/</link>
+      <pubDate>Mon, 24 Sep 2018 10:09:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/2018/09/24/7-leadership-skills-that-will-make-or-break-your-devops-transformation/</guid>
+      <description>Here&amp;rsquo;s the original post.</description>
+    </item>
+    
+    <item>
+      <title>6 hacks to scale your DevOps success</title>
+      <link>http://barkerd427.github.io/2018/09/11/6-hacks-to-scale-your-devops-success/</link>
+      <pubDate>Tue, 11 Sep 2018 10:09:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/2018/09/11/6-hacks-to-scale-your-devops-success/</guid>
+      <description>Here&amp;rsquo;s the original post.</description>
+    </item>
+    
+  </channel>
+</rss>

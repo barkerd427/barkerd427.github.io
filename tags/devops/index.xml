@@ -7,10 +7,55 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Dan Barker</copyright>
-    <lastBuildDate>Tue, 28 Aug 2018 10:09:49 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 26 Sep 2018 10:09:49 -0500</lastBuildDate>
     
 	<atom:link href="http://barkerd427.github.io/tags/devops/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>3 open source distributed tracing tools</title>
+      <link>http://barkerd427.github.io/2018/09/26/3-open-source-distributed-tracing-tools/</link>
+      <pubDate>Wed, 26 Sep 2018 10:09:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/2018/09/26/3-open-source-distributed-tracing-tools/</guid>
+      <description>Here&amp;rsquo;s the original post.</description>
+    </item>
+    
+    <item>
+      <title>7 leadership skills that will make or break your DevOps transformation</title>
+      <link>http://barkerd427.github.io/2018/09/24/7-leadership-skills-that-will-make-or-break-your-devops-transformation/</link>
+      <pubDate>Mon, 24 Sep 2018 10:09:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/2018/09/24/7-leadership-skills-that-will-make-or-break-your-devops-transformation/</guid>
+      <description>Here&amp;rsquo;s the original post.</description>
+    </item>
+    
+    <item>
+      <title>6 hacks to scale your DevOps success</title>
+      <link>http://barkerd427.github.io/2018/09/11/6-hacks-to-scale-your-devops-success/</link>
+      <pubDate>Tue, 11 Sep 2018 10:09:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/2018/09/11/6-hacks-to-scale-your-devops-success/</guid>
+      <description>Here&amp;rsquo;s the original post.</description>
+    </item>
+    
+    <item>
+      <title>3 open source log aggregation tools</title>
+      <link>http://barkerd427.github.io/2018/09/10/3-open-source-log-aggregation-tools/</link>
+      <pubDate>Mon, 10 Sep 2018 10:09:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/2018/09/10/3-open-source-log-aggregation-tools/</guid>
+      <description>Here&amp;rsquo;s the original post.</description>
+    </item>
+    
+    <item>
+      <title>4 open source monitoring tools</title>
+      <link>http://barkerd427.github.io/2018/08/29/4-open-source-monitoring-tools/</link>
+      <pubDate>Wed, 29 Aug 2018 10:09:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/2018/08/29/4-open-source-monitoring-tools/</guid>
+      <description>Here&amp;rsquo;s the original post.</description>
+    </item>
     
     <item>
       <title>Now available: The open source guide to DevOps monitoring tools</title>

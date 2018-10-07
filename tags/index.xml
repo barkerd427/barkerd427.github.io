@@ -76,6 +76,15 @@
     </item>
     
     <item>
+      <title>Cncf</title>
+      <link>http://barkerd427.github.io/tags/cncf/</link>
+      <pubDate>Wed, 03 Oct 2018 10:09:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/cncf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Containers</title>
       <link>http://barkerd427.github.io/tags/containers/</link>
       <pubDate>Fri, 05 Dec 2014 10:09:49 -0500</pubDate>
@@ -96,7 +105,7 @@
     <item>
       <title>Culture</title>
       <link>http://barkerd427.github.io/tags/culture/</link>
-      <pubDate>Thu, 09 Aug 2018 10:09:49 -0500</pubDate>
+      <pubDate>Mon, 24 Sep 2018 10:09:49 -0500</pubDate>
       
       <guid>http://barkerd427.github.io/tags/culture/</guid>
       <description></description>
@@ -105,9 +114,18 @@
     <item>
       <title>Devops</title>
       <link>http://barkerd427.github.io/tags/devops/</link>
-      <pubDate>Tue, 28 Aug 2018 10:09:49 -0500</pubDate>
+      <pubDate>Wed, 26 Sep 2018 10:09:49 -0500</pubDate>
       
       <guid>http://barkerd427.github.io/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Tracing</title>
+      <link>http://barkerd427.github.io/tags/distributed-tracing/</link>
+      <pubDate>Wed, 26 Sep 2018 10:09:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/distributed-tracing/</guid>
       <description></description>
     </item>
     
@@ -204,7 +222,7 @@
     <item>
       <title>Guide</title>
       <link>http://barkerd427.github.io/tags/guide/</link>
-      <pubDate>Tue, 28 Aug 2018 10:09:49 -0500</pubDate>
+      <pubDate>Wed, 26 Sep 2018 10:09:49 -0500</pubDate>
       
       <guid>http://barkerd427.github.io/tags/guide/</guid>
       <description></description>
@@ -276,9 +294,27 @@
     <item>
       <title>Kubernetes</title>
       <link>http://barkerd427.github.io/tags/kubernetes/</link>
-      <pubDate>Wed, 20 Sep 2017 10:09:49 -0500</pubDate>
+      <pubDate>Wed, 03 Oct 2018 10:09:49 -0500</pubDate>
       
       <guid>http://barkerd427.github.io/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leadership</title>
+      <link>http://barkerd427.github.io/tags/leadership/</link>
+      <pubDate>Mon, 24 Sep 2018 10:09:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/leadership/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Log Aggregation</title>
+      <link>http://barkerd427.github.io/tags/log-aggregation/</link>
+      <pubDate>Mon, 10 Sep 2018 10:09:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/tags/log-aggregation/</guid>
       <description></description>
     </item>
     
@@ -312,7 +348,7 @@
     <item>
       <title>Monitoring</title>
       <link>http://barkerd427.github.io/tags/monitoring/</link>
-      <pubDate>Tue, 28 Aug 2018 10:09:49 -0500</pubDate>
+      <pubDate>Wed, 29 Aug 2018 10:09:49 -0500</pubDate>
       
       <guid>http://barkerd427.github.io/tags/monitoring/</guid>
       <description></description>
@@ -339,7 +375,7 @@
     <item>
       <title>Observability</title>
       <link>http://barkerd427.github.io/tags/observability/</link>
-      <pubDate>Tue, 28 Aug 2018 10:09:49 -0500</pubDate>
+      <pubDate>Wed, 26 Sep 2018 10:09:49 -0500</pubDate>
       
       <guid>http://barkerd427.github.io/tags/observability/</guid>
       <description></description>
@@ -348,7 +384,7 @@
     <item>
       <title>Open Source</title>
       <link>http://barkerd427.github.io/tags/open-source/</link>
-      <pubDate>Tue, 28 Aug 2018 10:09:49 -0500</pubDate>
+      <pubDate>Wed, 26 Sep 2018 10:09:49 -0500</pubDate>
       
       <guid>http://barkerd427.github.io/tags/open-source/</guid>
       <description></description>
@@ -357,7 +393,7 @@
     <item>
       <title>Organizational Change</title>
       <link>http://barkerd427.github.io/tags/organizational-change/</link>
-      <pubDate>Thu, 23 Jun 2016 10:09:49 -0500</pubDate>
+      <pubDate>Mon, 24 Sep 2018 10:09:49 -0500</pubDate>
       
       <guid>http://barkerd427.github.io/tags/organizational-change/</guid>
       <description></description>
@@ -447,7 +483,7 @@
     <item>
       <title>Software Development</title>
       <link>http://barkerd427.github.io/tags/software-development/</link>
-      <pubDate>Wed, 20 Sep 2017 10:09:49 -0500</pubDate>
+      <pubDate>Mon, 24 Sep 2018 10:09:49 -0500</pubDate>
       
       <guid>http://barkerd427.github.io/tags/software-development/</guid>
       <description></description>

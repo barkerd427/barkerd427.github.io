@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cncf on Dan Barker - Learn, Teach, Lead</title>
+    <link>http://barkerd427.github.io/tags/cncf/</link>
+    <description>Recent content in Cncf on Dan Barker - Learn, Teach, Lead</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Dan Barker</copyright>
+    <lastBuildDate>Wed, 03 Oct 2018 10:09:49 -0500</lastBuildDate>
+    
+	<atom:link href="http://barkerd427.github.io/tags/cncf/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kubernetes unleashed: What the CNCF transfer means to your team</title>
+      <link>http://barkerd427.github.io/2018/10/03/kubernetes-unleashed-what-the-cncf-transfer-means-to-your-team/</link>
+      <pubDate>Wed, 03 Oct 2018 10:09:49 -0500</pubDate>
+      
+      <guid>http://barkerd427.github.io/2018/10/03/kubernetes-unleashed-what-the-cncf-transfer-means-to-your-team/</guid>
+      <description>Here&amp;rsquo;s the original post.</description>
+    </item>
+    
+  </channel>
+</rss>
